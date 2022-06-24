@@ -7,6 +7,16 @@
     "github"        : "https://github.com/Web3bazaar/",
     "website"       : "https://web3bazaar.org/",
     "banner"        : "https://pbs.twimg.com/profile_banners/1483464791737970689/1642590074/1500x500",
+    "opensea_collections" : [
+        {
+            "name" : "Web3Bazaar 721 Collection",
+            "link" : "https://testnets.opensea.io/collection/web3-bazaar-erc-721-test-collection"
+        },
+        {
+            "name" : "Web3Bazaar 1155 Collection",
+            "link" : "https://testnets.opensea.io/collection/web3-bazaar-erc-1155-test-collection-v3"
+        }
+    ],
     "assets"        : [
         {
             "name" : "BAZCOIN",
@@ -20,14 +30,17 @@
             "icon" : "https://academy.bit2me.com/wp-content/uploads/2021/02/ERC-1155-bit2meacademy.png",
             "type" : "erc1155",
             "decimals" : 1,
-            "contract_address" : "0xC70d6b33882dE18BDBD0a372B142aC96ceb1366f"
+            "contract_address" : "0xC70d6b33882dE18BDBD0a372B142aC96ceb1366f",
+            "metadata_url" : "https://webazaar-meta-api.herokuapp.com/1155/detail/{id}"
         },
         {
             "name" : "BAZAAR ERC721",
             "icon" : "https://academy.bit2me.com/wp-content/uploads/2019/07/74_ERC721.png",
             "type" : "erc721",
             "decimals" : 1,
-            "contract_address" : "0x8ba96897cA8A95B39C639BEa1e5E9ce60d22BD2B"
+            "contract_address" : "0x8ba96897cA8A95B39C639BEa1e5E9ce60d22BD2B",
+            "metadata_url" : "https://webazaar-meta-api.herokuapp.com/721/detail/{id}"
+
         }
     ]
 
