@@ -1,0 +1,47 @@
+{
+    "name"          : "SunFlower Land V2",
+    "description"   : "Sunflower Land is a Play-and-Own crypto game where everything you collect is identifiable on the Polygon Blockchain.",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.com/invite/sunflowerland",
+    "twitter"       : "https://twitter.com/0xSunflowerLand",
+    "github"        : "https://github.com/sunflower-land/",
+    "docs"          : "https://docs.sunflower-land.com/",
+    "website"       : "https://sunflower-land.com/",
+    "banner"        : "https://1060363975-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FIWGEodCG0c07OUY9iW9t%2Fuploads%2FhVMa20i2ABVnYUZJPMAL%2Fdqcw.png?alt=media&token=2f8c8510-9d64-4185-a3d1-b3110b1f8235",
+    "opensea_collections" : [
+        {
+            "name" : "Opensea link for Farm NFT",
+            "link" : "https://opensea.io/collection/sunflower-land"
+        },
+        {
+            "name" : "Opensea link for Collectibles",
+            "link" : "https://opensea.io/collection/sunflower-land-collectibles"
+        }
+    ],
+    "assets"        : [
+        {
+            "projectName" : "Sunflower Farmers Scarecrow",
+            "backgroundBanner" : "https://lh3.googleusercontent.com/Eb6kpclgDJUJJ9vvfU08MqgURjA1_s8xuAAL8I4hJUUXuvQDfdIGFr4yZ-ecrz67lV_Lb9rOnRlCfxx6MZsoqE6hp2OpZbj-QRA1u48=h600",
+            "contractType" : "ERC721",
+            "decimals" : 1,
+            "contractAddress" : "0x143ba32499065b5f89c518d5b75a38f3529ce324",
+            "apiMetadata" : "https://sunflower-farmers.com/play/nfts/scarecrow/metadata/{id}",
+            "defaultImage"      : "https://lh3.googleusercontent.com/c5x0d6nzGAxzGpNjXTgu5XnWXdFZJkN2SflX4_xvvH_XqQOt3Qa7g1s9FEkeItHlXW3uSXmp9-J1dvSupWqzN8NgC5qp_fptAUttxQ=w600"
+
+        },
+        {
+            "projectName" : "Sunflower Farmers Gnome",
+            "backgroundBanner" : "https://lh3.googleusercontent.com/AoV-hGc4p5rUJLUm2b3bkY0xRnBcX7Nnw5NEk9a8hPcZ4A5RNqOHNAcBGREOXrRdRaolQ7vy19XgH1el38Uu9S930s6iMue8bs0vLQ=h600",
+            "contractType" : "ERC721",
+            "decimals" : 1,
+            "contractAddress" : "0x35be1387d1bbc2d263b73ab2825ee91f1fd75cf3",
+            "apiMetadata" : "https://sunflower-land.com/play/nfts/farm-gnome/metadata/{id}",
+            "defaultImage"      : "https://lh3.googleusercontent.com/XWAJFnETRugw1am7O9gUhW77tmAARa0DhXKW2mSwTQedIq8AIvPCYwR9Dt6YqfhWwEMPB9PcvxtKwo7KAa_bheVyTBIAHWahE2OMww=w600"
+
+
+        }
+    ]
+
+
+
+}
