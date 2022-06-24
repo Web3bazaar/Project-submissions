@@ -1,0 +1,36 @@
+{
+    "name"          : "web3bazaar",
+    "description"   : "web3 trades",
+    "chainId"       : "80001",
+    "discord"       : "https://discord.gg/VdcJ9XrKTg",
+    "twitter"       : "https://twitter.com/Web3Bazaar",
+    "github"        : "https://github.com/Web3bazaar/",
+    "website"       : "https://web3bazaar.org/",
+    "banner"        : "https://pbs.twimg.com/profile_banners/1483464791737970689/1642590074/1500x500",
+    "assets"        : [
+        {
+            "name" : "BAZCOIN",
+            "icon" : "https://investorshub.advfn.com/uimage/uploads/2018/3/21/qpusdcointelegraph2.png",
+            "type" : "erc20",
+            "decimals" : 18,
+            "contract_address" : "0x89A84dc58ABA7909818C471B2EbFBc94e6C96c41"
+        },
+        {
+            "name" : "BAZAAR ERC1155",
+            "icon" : "https://academy.bit2me.com/wp-content/uploads/2021/02/ERC-1155-bit2meacademy.png",
+            "type" : "erc1155",
+            "decimals" : 1,
+            "contract_address" : "0xC70d6b33882dE18BDBD0a372B142aC96ceb1366f"
+        },
+        {
+            "name" : "BAZAAR ERC721",
+            "icon" : "https://academy.bit2me.com/wp-content/uploads/2019/07/74_ERC721.png",
+            "type" : "erc721",
+            "decimals" : 1,
+            "contract_address" : "0x8ba96897cA8A95B39C639BEa1e5E9ce60d22BD2B"
+        }
+    ]
+
+
+
+}
