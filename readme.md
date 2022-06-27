@@ -1,14 +1,14 @@
 
 ## 👋 Introduction
 
-Trust is one of the most cheerished values within our community so, as part of our commitment to kick scammers out of our beloved communites we are adding a Verified Checkmark to the most famed NFT and DeFi projects out there which, whithout it, would certainly be the target of all types of impersonators that would mask their copy-cat contracts under the Bazaar's interface, making you believe you were getting the real deal.
+Trust is one of the most cheerished values within our community so, as part of our commitment to kick scammers out of our beloved communites we are <b>adding a Verified Checkmark to the most famed NFT and DeFi projects</b> out there that whithout it, would certainly be the target of all types of impersonators that would mask their copy-cat contracts under the Bazaar's interface, making you believe you were getting the real deal.
 
 Getting the Checkmark is very straight forward and can be done by a project owner, a community member, or just a fan. All you need to do is to fill out our application form here in this repo and provide the data that will allow us to manually check for that project integrity.
 
 ## 📜 Application Guidelines
 
 1. Fork this repository.
-2. In the newly created fork, create a copy of the application template `[Project-verification/application-template.json](https://github.com/Web3bazaar/Project-verification/blob/master/application-template.json)`. If you're using the GitHub web interface, you will need to create a new file and copy the contents of the template inside the new one.
+2. In the newly created fork, create a copy of the application template [`(Project-verification/application-template.json)`](https://github.com/Web3bazaar/Project-verification/blob/master/application-template.json). If you're using the GitHub web interface, you will need to create a new file and copy the contents of the template inside the new one.
 3. Name the new file after your project: `project_name.json.`
 4. Fill out the template with the details of your project. The more information you provide, the faster the review. 
 5. Once you're done, create a pull request. The pull request should only contain one new file—the JSON file you created from the template.
