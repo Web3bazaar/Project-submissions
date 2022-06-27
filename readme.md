@@ -8,7 +8,7 @@ Getting the Checkmark is very straight forward and can be done by a project owne
 
 ## 📜 Application Guidelines
 
-1. Fork this repository.
+1. [Fork](https://github.com/Web3bazaar/Project-verification/fork) this repository.
 2. In the newly created fork, create a copy of the application template [`(Project-verification/application-template.json)`](https://github.com/Web3bazaar/Project-verification/blob/master/application-template.json). If you're using the GitHub web interface, you will need to create a new file and copy the contents of the template inside the new one.
 3. Name the new file after your project: `project_name.json.`
 4. Fill out the template with the details of your project. The more information you provide, the faster the review. 
