@@ -1,36 +1,51 @@
 
-## Project Submissions
+## 👋 Introduction
 
-### Submission process
+Trust is one of the most cheerished values within our community so, as part of our commitment to kick scammers out of our beloved communites we are adding a Verified Checkmark to the most famed NFT and DeFi projects out there which, whithout it, would certainly be the target of all types of impersonators that would mask their copy-cat contracts under the Bazaar's interface, making you believe you were getting the real deal.
 
-1. Fork project
-2. Copy template file into projects folder with name it with your project name
-3. Fill file according with table structure
+Getting the Checkmark is very straight forward and can be done by a project owner, a community member, or just a fan. All you need to do is to fill out our application form here in this repo and provide the data that will allow us to manually check for that project integrity.
+
+## 📜 Application Guidelines
+
+1. Fork this repository.
+2. In the newly created fork, create a copy of the application template `[Project-verification/application-template.json](https://github.com/Web3bazaar/Project-verification/blob/master/application-template.json)`. If you're using the GitHub web interface, you will need to create a new file and copy the contents of the template inside the new one.
+3. Name the new file after your project: `project_name.json.`
+4. Fill out the template with the details of your project. The more information you provide, the faster the review. 
+5. Once you're done, create a pull request. The pull request should only contain one new file—the JSON file you created from the template.
 
 
-# Project file description
+### 🤖 JSON file guidelines
 
-name :  < Name of the project >   
-description :   < Small introduction of the project>   
-chainId :  < Id of the chain in hex >   
-discord : < Discord channel>   
-twitter : < Twitter account of channel>    
-github  : < Github of the project>   
-website : < Project site url>   
-banner  : < Banner of the project>    
-opensea_collections : < List of the opensea collection owned by the project>     
-&nbsp;itens : {   
-&nbsp;&nbsp;name : < Name of the project >   
-&nbsp;&nbsp;link : < Link for the collection >    
- &nbsp;}   
-assets : < List of the contract used by project>   
-&nbsp;itens   
-&nbsp;&nbsp;{   
-&nbsp;&nbsp;&nbsp; projectName     : < Name of the asset >   
-&nbsp;&nbsp;&nbsp; tokenImage      : < Image for that asset >    
-&nbsp;&nbsp;&nbsp; contractType    : < Type of the contract for that asset options: ERC20|ERC721|ERC1155 >   
-&nbsp;&nbsp;&nbsp; decimals        : < Number of decimals places for ERC721 and ERC1155 usually 1 >   
-&nbsp;&nbsp;&nbsp; contractAddress : < Addres of the contract >   
-&nbsp;&nbsp;&nbsp; apiMetadata     : < Metadata API only applicable for NFT contract ERC721|ERC1155 >   
-&nbsp;&nbsp;&nbsp; defaultImage    : < Default image only applicable for NFT. Used when api metadata are unavailable >   
-&nbsp;&nbsp; }   
+>DO NOT CHANGE ANY CHARACTER OR VALUE FROM THE STATIC FIELDS ON THE LEFT COMING BEFORE THE ":" SIGN.
+
+Fill in the fields WITHIN `< >` on the right-end of every line with the unique data refering to your project. Whenever a field is not applicable to your project make sure to leave the array empty .
+
+#### A) overview: Provide data relative to the project and community behind it:
+- name :  < Name of the project >   
+- description :   < Brief description of the project or collection >   
+- chainId :  < Id of the EVM network or chain where the contracts are supported(in hexadecimal) >   
+- discord : < Projec's Discord server invite link>   
+- twitter : < Project's Twitter handler>    
+- github  : < Project's Github URL>   
+- website : < Project's website url>  
+- banner  : < A JPEG or PNG (1220:1080) with an offcial image of the project to be added to the trading cards containing assets from it  within the Bazaar's Main Square website >    
+
+#### b) assets:  Provide a list with the smart contract addresses and other data for each asset used within the prohect. You can add as many assets as you wish by pasting the fields below, after the `}` and switching the input data:   
+- assetName       : < Name of the asset >   
+- tokenImage      : < token ticker (applicable to ERC-20 tokens only)>    
+- contractType    : < Type of token contract. (options: ERC20|ERC721|ERC1155) >   
+- decimals        : < Number of decimal places used by the token (ERC721|ERC1155 tokens usually have only 1 while ERC-20 have 18 >   
+- contractAddress : < Addres of the asset smart contract >   
+- apiMetadata     : < URL link to Metadata API (only applicable for ERC721|ERC1155 tokens>   
+- defaultImage    : < NFT original image (Provide it only Used when there is no api metadata available) >   
+ }   
+
+#### c) opensea_collections :Provide the name and URL links to the OpenSea collections of the NFTs used within the project    You can add as many assets as you wish by pasting the fields below, after the `}` and switching the input data: 
+
+- name : < Name of the NFT collection >   
+- link : < URL Link for the NFT collection >    
+}   
+
+## ✅ Reviewing proccess 
+
+Our Team and community manually review the applicationsand publish the results of the due diligence in the comments, adding a a recommendation for approval or rejection. Core team will then do the final review and approve the pull request, commiting it to the master branch and automatically deploying the Blue checkmark on all newly verified assets.
