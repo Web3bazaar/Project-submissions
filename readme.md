@@ -1,5 +1,5 @@
 
-## 👋 Introduction
+## 👋 About Bazaar's verified assets
 
 Trust is one of the most cheerished values in the [Bazaar](https://web3bazaar.org) so, as part of our commitment to kick scammers out of our beloved communites we are <b>adding a Verified Checkmark to the most famed NFT and DeFi projects out there</b>.
 <br>Whithout it, they would certainly be the target of all types of impersonators that would mask their copy-cat contracts under the Bazaar's interface, making you believe you were getting the real deal.
