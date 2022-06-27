@@ -19,10 +19,10 @@ github  : < Github of the project>
 website : < Project site url>   
 banner  : < Banner of the project>    
 opensea_collections : < List of the opensea collection owned by the project>     
-    itens : {   
-      name : < Name of the project >   
-      link : < Link for the collection >    
-    }   
+&nbsp;itens : {   
+&nbsp;&nbsp;name : < Name of the project >   
+&nbsp;&nbsp;link : < Link for the collection >    
+ &nbsp;}   
 assets : < List of the contract used by project>   
 &nbsp;itens   
 &nbsp;&nbsp;{   
