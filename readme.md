@@ -14,16 +14,16 @@ name :  < Name of the project >
 description :   < Small introduction of the project>   
 chainId :  < Id of the chain in hex >   
 discord : < Discord channel>   
-twitter : <twitter account of channel>    
-github  : <github of the project>   
-website : <project site url>   
-banner  : <banner of the project>    
-opensea_collections : <list of the opensea collection owned by the project>     
+twitter : <Twitter account of channel>    
+github  : <Github of the project>   
+website : <Project site url>   
+banner  : <Banner of the project>    
+opensea_collections : <List of the opensea collection owned by the project>     
     itens : {   
-      name : <name of the project>   
-      link : <link for the collection>    
+      name : <Name of the project>   
+      link : <Link for the collection>    
     }   
-assets : <list of the contract used by project>   
+assets : <List of the contract used by project>   
   itens   
   {   
     projectName     : <Name of the asset>   
