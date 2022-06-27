@@ -11,9 +11,9 @@
 # Project file description
 
 name :  < Name of the project >   
-description :   <small introduction of the project>   
-chainId : <id of the chain in hex>   
-discord : <discord channel>   
+description :   < Small introduction of the project>   
+chainId :  < Id of the chain in hex >   
+discord : < Discord channel>   
 twitter : <twitter account of channel>    
 github  : <github of the project>   
 website : <project site url>   
