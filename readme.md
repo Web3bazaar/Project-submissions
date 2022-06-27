@@ -17,7 +17,7 @@ Getting the Checkmark is very straight forward and can be done by a project owne
 
 ### 🤖 JSON file guidelines
 
->DO NOT CHANGE ANY CHARACTER OR VALUE FROM THE STATIC FIELDS ON THE LEFT COMING BEFORE THE ":" SIGN.
+>DO NOT CHANGE ANY CHARACTERS ON THE LEFT-SIDE PARAMETERS COMING BEFORE THE ":" SIGN.
 
 Fill in the fields WITHIN `< >` on the right-end of every line with the unique data refering to your project. Whenever a field is not applicable to your project make sure to leave the array empty .
 
