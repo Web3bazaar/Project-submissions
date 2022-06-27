@@ -7,16 +7,7 @@
     "github"        : "https://github.com/Web3bazaar/",
     "website"       : "https://web3bazaar.org/",
     "banner"        : "https://pbs.twimg.com/profile_banners/1483464791737970689/1642590074/1500x500",
-    "opensea_collections" : [
-        {
-            "name" : "Web3Bazaar 721 Collection",
-            "link" : "https://testnets.opensea.io/collection/web3-bazaar-erc-721-test-collection"
-        },
-        {
-            "name" : "Web3Bazaar 1155 Collection",
-            "link" : "https://testnets.opensea.io/collection/web3-bazaar-erc-1155-test-collection-v3"
-        }
-    ],
+    
     "assets"        : [
         {
             "projectName" : "BAZCOIN",
@@ -45,7 +36,16 @@
 
         }
     ]
-
+            "opensea_collections" : [
+        {
+            "name" : "Web3Bazaar 721 Collection",
+            "link" : "https://testnets.opensea.io/collection/web3-bazaar-erc-721-test-collection"
+        },
+        {
+            "name" : "Web3Bazaar 1155 Collection",
+            "link" : "https://testnets.opensea.io/collection/web3-bazaar-erc-1155-test-collection-v3"
+        }
+    ],
 
 
 }
