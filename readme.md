@@ -10,7 +10,7 @@
 
 # Project file description
 
-name :  <name of the project>   
+name :  < Name of the project >   
 description :   <small introduction of the project>   
 chainId : <id of the chain in hex>   
 discord : <discord channel>   
