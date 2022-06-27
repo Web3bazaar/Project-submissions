@@ -23,14 +23,14 @@ opensea_collections : < List of the opensea collection owned by the project>
       name : < Name of the project >   
       link : < Link for the collection >    
     }   
-assets : <List of the contract used by project>   
-  itens   
-  {   
-    projectName     : < Name of the asset >   
-    tokenImage      : < Image for that asset >    
-    contractType    : < Type of the contract for that asset options: ERC20|ERC721|ERC1155 >   
-    decimals        : < Number of decimals places for ERC721 and ERC1155 usually 1 >   
-    contractAddress : < Addres of the contract >   
-    apiMetadata     : < Metadata API only applicable for NFT contract ERC721|ERC1155 >   
-    defaultImage    : < Default image only applicable for NFT. Used when api metadata are unavailable >   
-  }   
+assets : < List of the contract used by project>   
+      itens   
+      {   
+        projectName     : < Name of the asset >   
+        tokenImage      : < Image for that asset >    
+        contractType    : < Type of the contract for that asset options: ERC20|ERC721|ERC1155 >   
+        decimals        : < Number of decimals places for ERC721 and ERC1155 usually 1 >   
+        contractAddress : < Addres of the contract >   
+        apiMetadata     : < Metadata API only applicable for NFT contract ERC721|ERC1155 >   
+        defaultImage    : < Default image only applicable for NFT. Used when api metadata are unavailable >   
+      }   
