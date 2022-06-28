@@ -31,7 +31,7 @@ Fill in the fields WITHIN `< >` on the right-end of every line with the unique d
 - website : < Project's website url>  
 - banner  : < A JPEG or PNG (1220:1080) with an offcial image of the project to be added to the trading cards containing assets from it  within the Bazaar's Main Square website >    
 
-#### b) assets:  Provide a list with the smart contract addresses and other data for each asset used within the prohect. You can add as many assets as you wish by pasting the fields below, after the `}` and switching the input data:   
+#### b) assets:  Provide a list with the smart contract addresses and other data for each asset used within the prohect. You can add as many assets as you wish by pasting the fields below, after the `}` and changing the input data:   
 - assetName       : < Name of the asset >   
 - tokenImage      : < token ticker (applicable to ERC-20 tokens only)>    
 - contractType    : < Type of token contract. (options: ERC20|ERC721|ERC1155) >   
@@ -41,7 +41,7 @@ Fill in the fields WITHIN `< >` on the right-end of every line with the unique d
 - defaultImage    : < NFT original image (Provide it only when there is no api metadata available) >   
  }   
 
-#### c) opensea_collections (for ERC-721 and ERC-1155 only) :Provide the name and URL links to the OpenSea collections of the NFTs used within the project.    You can add as many assets as you wish by pasting the fields below, after the `}` and switching the input data: 
+#### c) opensea_collections (for ERC-721 and ERC-1155 only) :Provide the name and URL links to the OpenSea collections of the NFTs used within the project.    You can add as many assets as you wish by pasting the fields below, after the `}` and changing the input data: 
 
 - name : < Name of the NFT collection >   
 - link : < OpenSea collection URL >    
