@@ -24,8 +24,8 @@ Fill in the fields WITHIN `< >` on the right-end of every line with the unique d
 #### A) overview: Provide data relative to the project and community behind it:
 - name :  < Name of the project >   
 - description :   < Brief description of the project or collection >   
-- chainId :  < Id of the EVM network or chain where the contracts are supported(in hexadecimal) >   
-- discord : < Projec's Discord server invite link>   
+- chainId :  < ID of the EVM network or chain where the contracts are supported(in hexadecimal) >   
+- discord : < Project's Discord server invite link>   
 - twitter : < Project's Twitter handler>    
 - github  : < Project's Github URL>   
 - website : < Project's website url>  
