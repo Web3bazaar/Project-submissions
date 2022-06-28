@@ -4,7 +4,7 @@
 Trust is one of the most cheerished values in the [Bazaar](https://web3bazaar.org) so, as part of our commitment to kick scammers out of our beloved communites we are <b>adding a Verified Checkmark to the most famed NFT and DeFi projects out there</b>.
 <br>Whithout it, they would certainly be the target of all types of impersonators that would mask their copy-cat contracts under the Bazaar's interface, making you believe you were getting the real deal.
 
-Getting the Checkmark is very straight forward and can be done by a project owner, community member, or supporter. All you need to do is to fill out the application form here in this repo and provide the data that will allow us to manually check for that project integrity.
+Getting the Checkmark is very straight forward and can be done by a project owner, community member, or supporter. All you need to do is to fill in the application form below and provide the data that will allow us to manually check that project integrity.
 
 ## 📜 Application Guidelines
 
