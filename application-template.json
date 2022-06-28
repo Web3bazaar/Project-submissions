@@ -10,7 +10,7 @@
     
     "assets"        : [
         {
-            "assettName" : "BAZCOIN",
+            "assetName" : "BAZCOIN",
             "tokenImage" : "https://cdn-icons-png.flaticon.com/512/4843/4843086.png",
             "contractType" : "ERC20",
             "decimals" : 18,
