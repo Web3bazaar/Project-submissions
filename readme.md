@@ -38,7 +38,7 @@ Fill in the fields WITHIN `< >` on the right-end of every line with the unique d
 - decimals        : < Number of decimal places used by the token (ERC721|ERC1155 tokens usually have only 1 while ERC-20 have 18 >   
 - contractAddress : < Addres of the asset smart contract >   
 - apiMetadata     : < URL link to Metadata API (only applicable for ERC721|ERC1155 tokens>   
-- defaultImage    : < NFT original image (Provide it only Used when there is no api metadata available) >   
+- defaultImage    : < NFT original image (Provide it only when there is no api metadata available) >   
  }   
 
 #### c) opensea_collections (for ERC-721 and ERC-1155 only) :Provide the name and URL links to the OpenSea collections of the NFTs used within the project.    You can add as many assets as you wish by pasting the fields below, after the `}` and switching the input data: 
