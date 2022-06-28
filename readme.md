@@ -49,6 +49,6 @@ Fill in the fields WITHIN `< >` on the right-end of every line with the unique d
 
 ## ✅ Reviewing proccess 
 
-Our Team and community manually review the applicationsand publish the results of the due diligence in the comments, adding a a recommendation for approval or rejection. Core team will then do the final review and approve the pull request, commiting it to the master branch and automatically deploying the Blue checkmark on all newly verified assets.
+Our Team and community manually review the applications and publish the results of the due diligence in the comments, adding a a recommendation for approval or rejection. Core team will then do the final review and approve the pull request, commiting it to the master branch and automatically deploying the Blue checkmark on all newly verified assets.
 
 Check Verified Projects and their assets' info in the [`(Verified Projects)`](https://github.com/Web3bazaar/Verified-Projects-application/tree/master/projects) folder.
