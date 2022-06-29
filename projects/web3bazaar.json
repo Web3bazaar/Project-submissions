@@ -19,14 +19,14 @@
     ],
     "assets"        : [
         {
-            "projectName" : "BAZCOIN",
+            "assetName" : "BAZCOIN",
             "tokenImage" : "https://cdn-icons-png.flaticon.com/512/4843/4843086.png",
             "contractType" : "ERC20",
             "decimals" : 18,
             "contractAddress" : "0x89A84dc58ABA7909818C471B2EbFBc94e6C96c41"
         },
         {
-            "projectName"       : "BAZAAR ERC1155",
+            "assetName"       : "BAZAAR ERC1155",
             "backgroundBanner"  : "https://academy.bit2me.com/wp-content/uploads/2021/02/ERC-1155-bit2meacademy.png",
             "contractType"      : "ERC1155",
             "decimals"          : 1,
@@ -35,7 +35,7 @@
             "defaultImage"      : "https://lh3.googleusercontent.com/FvJPOKp1J-bSN9to_E34bxZ8NcqB_ZlRbO8NP0L-2g8afiEYF_EwCx5QUaX0Kt_f2udc3SWVKAf_mS0gEdPdl7lnfBzh0rw54jr9Yw=w600"
         },
         {
-            "projectName"       : "BAZAAR ERC721",
+            "assetName"       : "BAZAAR ERC721",
             "backgroundBanner"  : "https://academy.bit2me.com/wp-content/uploads/2019/07/74_ERC721.png",
             "contractType"      : "ERC721",
             "decimals"          : 1,
