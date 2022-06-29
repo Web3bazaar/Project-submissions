@@ -36,6 +36,16 @@
             "apiMetadata"       : "https://sunflower-land.com/play/erc1155/{id}.json",
             "defaultImage"      : "https://lh3.googleusercontent.com/rpnk-Yq7k8ueMvjkVAkHr5cRAhIuAoVzJ_C9wYFDvbwOMcQHM3EGSJU1Ex5M9wzO6tU_PIp_aki37tCfQgrOqS6MYkSibIpI7kRVIw=s0"
 
+        },
+        {
+            "projectName"       : "Sunflower Land Farms",
+            "backgroundBanner"  : "https://lh3.googleusercontent.com/lOvz_pGkXmdg3K35rZf68c71Yg673Z_KfdfAX6OgZeMCj0KSMV2b1xqMgOB3ZWNAktDgM-lRWvnJEq8DXma_m0XsXrPqjgPd_9iwXQ=h600",
+            "contractType"      : "ERC721",
+            "decimals"          :  1,
+            "contractAddress"   : "0x2b4a66557a79263275826ad31a4cddc2789334bd",
+            "apiMetadata"       : "https://api.sunflower-land.com/nfts/farm/{id}",
+            "defaultImage"      : "https://lh3.googleusercontent.com/rpnk-Yq7k8ueMvjkVAkHr5cRAhIuAoVzJ_C9wYFDvbwOMcQHM3EGSJU1Ex5M9wzO6tU_PIp_aki37tCfQgrOqS6MYkSibIpI7kRVIw=s0"
+
         }
     ]
 
