@@ -20,7 +20,7 @@
     ],
     "assets"        : [
         {
-            "projectName" : "Sunflower Farmers Scarecrow",
+            "assetName" : "Sunflower Farmers Scarecrow",
             "backgroundBanner" : "https://lh3.googleusercontent.com/Eb6kpclgDJUJJ9vvfU08MqgURjA1_s8xuAAL8I4hJUUXuvQDfdIGFr4yZ-ecrz67lV_Lb9rOnRlCfxx6MZsoqE6hp2OpZbj-QRA1u48=h600",
             "contractType" : "ERC721",
             "decimals" : 1,
@@ -30,7 +30,7 @@
 
         },
         {
-            "projectName" : "Sunflower Farmers Gnome",
+            "assetName" : "Sunflower Farmers Gnome",
             "backgroundBanner" : "https://lh3.googleusercontent.com/AoV-hGc4p5rUJLUm2b3bkY0xRnBcX7Nnw5NEk9a8hPcZ4A5RNqOHNAcBGREOXrRdRaolQ7vy19XgH1el38Uu9S930s6iMue8bs0vLQ=h600",
             "contractType" : "ERC721",
             "decimals" : 1,
