@@ -12,28 +12,28 @@
     "assets" : 
     [
         {
-            "projectName"       : "DAI (DAI)",
+            "assetName"       : "DAI (DAI)",
             "tokenImage"        : "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png",
             "contractType"      : "ERC20",
             "decimals"          : 18,
             "contractAddress"      : "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
         },
         {
-            "projectName"       : "USDC (USDC)",
-            "tokenImage"        : "https://cryptologos.cc/logos/usd-coin-usdc-logo.png=
+            "assetName"       : "USDC (USDC)",
+            "tokenImage"        : "https://cryptologos.cc/logos/usd-coin-usdc-logo.png"
             "contractType"      : "ERC20",
             "decimals"          : 18,
             "contractAddress"      : "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
         }
         {
-            "projectName"       : "USDT (USDT)",
+            "assetName"       : "USDT (USDT)",
             "tokenImage"        : "https://cryptologos.cc/logos/tether-usdt-logo.png"
             "contractType"      : "ERC20",
             "decimals"          : 18,
             "contractAddress"      : "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
         }
          {
-            "projectName"       : "BUSD (BUSD)",
+            "assetName"       : "BUSD (BUSD)",
             "tokenImage"        : "https://cdn.coinranking.com/6SJHRfClq/busd.svg?size=34x34"
             "contractType"      : "ERC20",
             "decimals"          : 18,
