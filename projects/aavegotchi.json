@@ -1,0 +1,24 @@
+{
+    "name"          : "Aavegotchi",
+    "description"   : "DeFi-staked crypto collectibles by Pixelcraft Studios.",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.gg/BvRZuucwHN",
+    "twitter"       : "https://twitter.com/aavegotchi",
+    "github"        : "",
+    "docs"          : "",
+    "website"       : "https://www.aavegotchi.com/",
+    "banner"        : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png"
+    "opensea_collections" : [],
+    "assets" : 
+    [
+        {
+            "assettName"       : "Ghost token (GHST)",
+            "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/7046.png",
+            "contractType"      : "ERC20",
+            "decimals"          : 18,
+            "contractAddress"      : "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7"
+        },
+
+    ]
+
+}
