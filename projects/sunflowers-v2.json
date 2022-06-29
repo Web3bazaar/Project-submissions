@@ -21,14 +21,14 @@
     "assets" : 
     [
         {
-            "projectName"       : "Sunflower Land (SFL)",
+            "assetName"       : "Sunflower Land (SFL)",
             "tokenImage"        : "https://lh3.googleusercontent.com/rpnk-Yq7k8ueMvjkVAkHr5cRAhIuAoVzJ_C9wYFDvbwOMcQHM3EGSJU1Ex5M9wzO6tU_PIp_aki37tCfQgrOqS6MYkSibIpI7kRVIw=s0",
             "contractType"      : "ERC20",
             "decimals"          : 18,
             "contractAddress"      : "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05"
         },
         {
-            "projectName"       : "Sunflower land Collectibles",
+            "assetName"       : "Sunflower land Collectibles",
             "backgroundBanner"  : "https://lh3.googleusercontent.com/B_0dD31cBrQiBsLfBNoUaaF4bu9N_shtipGPCXrbVadlAm-qMQq-ZwD_6JhUHtROjZjw3PiPLIaSCSnQDaKYJ3gFxTdz1XXrpU4OCw=h600",
             "contractType"      : "ERC1155",
             "decimals"          :  1,
@@ -38,7 +38,7 @@
 
         },
         {
-            "projectName"       : "Sunflower Land Farms",
+            "assetName"       : "Sunflower Land Farms",
             "backgroundBanner"  : "https://lh3.googleusercontent.com/lOvz_pGkXmdg3K35rZf68c71Yg673Z_KfdfAX6OgZeMCj0KSMV2b1xqMgOB3ZWNAktDgM-lRWvnJEq8DXma_m0XsXrPqjgPd_9iwXQ=h600",
             "contractType"      : "ERC721",
             "decimals"          :  1,
