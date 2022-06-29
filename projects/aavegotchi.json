@@ -12,7 +12,7 @@
     "assets" : 
     [
         {
-            "assettName"       : "Ghost token (GHST)",
+            "assetName"       : "Ghost token (GHST)",
             "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/7046.png",
             "contractType"      : "ERC20",
             "decimals"          : 18,
