@@ -16,14 +16,14 @@
             "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/13103.png",
             "contractType"      : "ERC20",
             "decimals"          : 18,
-            "contractAddress"      : "0xcC1B9517460D8aE86fe576f614d091fCa65a28Fc",
+            "contractAddress"      : "0xcC1B9517460D8aE86fe576f614d091fCa65a28Fc"
         },
         {
             "assetName"       : "Pegaxy Stone (PGX)",
             "tokenImage"        : "https://coinmarketcap.com/pt-br/currencies/pegaxy/",
             "contractType"      : "ERC20",
             "decimals"          : 18,
-            "contractAddress"      : "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE",
+            "contractAddress"      : "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE"
         }
     ]
 
