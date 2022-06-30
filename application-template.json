@@ -1,7 +1,7 @@
 {
     "name"          : "web3bazaar",
     "description"   : "web3 trades",
-    "chainId"       : "80001",
+    "chainId"       : "0x89",
     "discord"       : "https://discord.gg/VdcJ9XrKTg",
     "twitter"       : "https://twitter.com/Web3Bazaar",
     "github"        : "https://github.com/Web3bazaar/",
@@ -17,7 +17,7 @@
             "contractAddress" : "0x89A84dc58ABA7909818C471B2EbFBc94e6C96c41"
         },
         {
-            "projectName"       : "BAZAAR ERC1155",
+            "assetName"       : "BAZAAR ERC1155",
             "backgroundBanner"  : "https://academy.bit2me.com/wp-content/uploads/2021/02/ERC-1155-bit2meacademy.png",
             "contractType"      : "ERC1155",
             "decimals"          : 1,
