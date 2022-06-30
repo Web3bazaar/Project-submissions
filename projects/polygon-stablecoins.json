@@ -22,14 +22,14 @@
           "assetName"       : "USDC (USDC)",
           "tokenImage"        : "https://cryptologos.cc/logos/usd-coin-usdc-logo.png",
           "contractType"      : "ERC20",
-          "decimals"          : 18,
+          "decimals"          : 6,
           "contractAddress"      : "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
       },
       {
           "assetName"       : "USDT (USDT)",
           "tokenImage"        : "https://cryptologos.cc/logos/tether-usdt-logo.png",
           "contractType"      : "ERC20",
-          "decimals"          : 18,
+          "decimals"          : 6,
           "contractAddress"      : "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
       },
       {
