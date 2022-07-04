@@ -52,6 +52,6 @@
             "contractType"      : "ERC20",
             "decimals"          : 18,
             "contractAddress"      : "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc"
-        },
+        }
     ]
 }
