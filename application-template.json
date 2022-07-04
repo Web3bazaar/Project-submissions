@@ -34,8 +34,8 @@
             "apiMetadata"       : "https://webazaar-meta-api.herokuapp.com/721/detail/{id}",
             "defaultImage"      : "https://lh3.googleusercontent.com/FvJPOKp1J-bSN9to_E34bxZ8NcqB_ZlRbO8NP0L-2g8afiEYF_EwCx5QUaX0Kt_f2udc3SWVKAf_mS0gEdPdl7lnfBzh0rw54jr9Yw=w600"
 
-        }
-    ]
+        },
+    ],
             "opensea_collections" : [
         {
             "name" : "Web3Bazaar 721 Collection",
@@ -44,7 +44,7 @@
         {
             "name" : "Web3Bazaar 1155 Collection",
             "link" : "https://testnets.opensea.io/collection/web3-bazaar-erc-1155-test-collection-v3"
-        }
+        },
     ],
 
 
