@@ -39,49 +39,49 @@
           "decimals"          : 18,
           "contractAddress"      : "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7"
       },
-        {
-            "assetName"       : "Ghost token (GHST)",
-            "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/7046.png",
-            "contractType"      : "ERC20",
-            "decimals"          : 18,
-            "contractAddress"      : "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7"
-        },
-           {
-            "assetName"       : "FUD token (FUD)",
-            "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/19260.png",
-            "contractType"      : "ERC20",
-            "decimals"          : 18,
-            "contractAddress"      : "0x403E967b044d4Be25170310157cB1A4Bf10bdD0f"
+      {
+          "assetName"       : "Ghost token (GHST)",
+          "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/7046.png",
+          "contractType"      : "ERC20",
+          "decimals"          : 18,
+          "contractAddress"      : "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7"
         },
         {
-            "assetName"       : "FOMO token (FOMO)",
-            "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/19261.png",
-            "contractType"      : "ERC20",
-            "decimals"          : 18,
-            "contractAddress"      : "0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8"
+           "assetName"       : "FUD token (FUD)",
+           "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/19260.png",
+           "contractType"      : "ERC20",
+           "decimals"          : 18,
+           "contractAddress"      : "0x403E967b044d4Be25170310157cB1A4Bf10bdD0f"
         },
         {
-            "assetName"       : "ALPHA token (ALPHA)",
-            "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/19262.png",
-            "contractType"      : "ERC20",
-            "decimals"          : 18,
-            "contractAddress"      : "0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2"
+           "assetName"       : "FOMO token (FOMO)",
+           "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/19261.png",
+           "contractType"      : "ERC20",
+           "decimals"          : 18,
+           "contractAddress"      : "0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8"
         },
-         {
-            "assetName"       : "KEK token (KEK)",
-            "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/19263.png",
-            "contractType"      : "ERC20",
-            "decimals"          : 18,
-            "contractAddress"      : "0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C"
+        {
+           "assetName"       : "ALPHA token (ALPHA)",
+           "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/19262.png",
+           "contractType"      : "ERC20",
+           "decimals"          : 18,
+           "contractAddress"      : "0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2"
         },
-         {
-            "assetName"       : "GAX liqudity token reward (GLTR)",
-            "tokenImage"        : "",
-            "contractType"      : "ERC20",
-            "decimals"          : 18,
-            "contractAddress"      : "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc"
+        {
+           "assetName"       : "KEK token (KEK)",
+           "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/19263.png",
+           "contractType"      : "ERC20",
+           "decimals"          : 18,
+           "contractAddress"      : "0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C"
         },
-          {
+        {
+           "assetName"       : "GAX liqudity token reward (GLTR)",
+           "tokenImage"        : "",
+           "contractType"      : "ERC20",
+           "decimals"          : 18,
+           "contractAddress"      : "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc"
+        },
+        {
           "assetName"       : "Wrapped Ether (WETH)",
           "tokenImage"        : "https://raw.githubusercontent.com/dappradar/tokens/main/ethereum/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/logo.png",
           "contractType"      : "ERC20",
