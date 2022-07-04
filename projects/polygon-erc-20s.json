@@ -20,7 +20,7 @@
       },
       {
           "assetName"       : "Aave (AAVE)",
-          "tokenImage"        : "https://thegivingblock.com/wp-content/uploads/2021/07/AAVE-Logo.png"
+          "tokenImage"        : "https://thegivingblock.com/wp-content/uploads/2021/07/AAVE-Logo.png",
           "contractType"      : "ERC20",
           "decimals"          : 18,
           "contractAddress"      : "0xD6DF932A45C0f255f85145f286eA0b292B21C90B"
