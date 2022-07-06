@@ -48,7 +48,7 @@
         },
          {
             "assetName"       : "GAX liqudity token reward (GLTR)",
-            "tokenImage"        : "",
+            "tokenImage"        : "https://lh3.googleusercontent.com/tch-qD7u-5QkwwdxQ4VS2iXsOxXE6EXimBmMVEqkdXnJY19eMYlp7szZodSCJWFX_CZ0Il0pByCEhdFU5zws1aLK1hm_zho5cMAqDw=s168",
             "contractType"      : "ERC20",
             "decimals"          : 18,
             "contractAddress"      : "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc"
