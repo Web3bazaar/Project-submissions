@@ -56,7 +56,7 @@
         {
             "assetName"       : "Gotchiverse Realm Parcels",
             "backgroundBanner"  : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png",
-            "contractType"      : "ERC1155",
+            "contractType"      : "ERC721",
             "decimals"          :  1,
             "contractAddress"   : "0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11",
             "apiMetadata"       : "https://app.aavegotchi.com/metadata/realm/{id}",
