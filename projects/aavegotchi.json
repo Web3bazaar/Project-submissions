@@ -48,7 +48,7 @@
         },
          {
             "assetName"       : "GAX liqudity token reward (GLTR)",
-            "tokenImage"        : "https://lh3.googleusercontent.com/tch-qD7u-5QkwwdxQ4VS2iXsOxXE6EXimBmMVEqkdXnJY19eMYlp7szZodSCJWFX_CZ0Il0pByCEhdFU5zws1aLK1hm_zho5cMAqDw=s168",
+            "tokenImage"        : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png",
             "contractType"      : "ERC20",
             "decimals"          : 18,
             "contractAddress"      : "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc"
@@ -60,7 +60,7 @@
             "decimals"          :  1,
             "contractAddress"   : "0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11",
             "apiMetadata"       : "https://app.aavegotchi.com/metadata/realm/{id}",
-            "defaultImage"      : "https://lh3.googleusercontent.com/Eo4jFIg_BaRCCbb9bkYyZTmgWKd_wvJ-HAXJxCyxxVp4-vMdxKV9qRU791tFOR0DIQFijQUomSmnBECjI2S_McZneIYw8qIUQikX=s150"
+            "defaultImage"      : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png"
         },
         {
             "assetName"       : "Gotchiverse Installations",
@@ -69,7 +69,7 @@
             "decimals"          :  1,
             "contractAddress"   : "0x19f870bD94A34b3adAa9CaA439d333DA18d6812A",
             "apiMetadata"       : "https://app.aavegotchi.com/metadata/installation/{id}",
-            "defaultImage"      : "https://lh3.googleusercontent.com/ySdfvhLFwH6erSjwtLNA1GpD0V03ZTrgHnmhRM38zA3A7-W1U5bh88L5SDisYsVBLKqmNd1I6_5WOcFH6jRPZ7rRLifT6yuNjF6iJQ=s168"
+            "defaultImage"      : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png"
         },   
         {
             "assetName"       : "Gotchis",
@@ -78,7 +78,7 @@
             "decimals"          :  1,
             "contractAddress"   : "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
             "apiMetadata"       : "hhttps://app.aavegotchi.com/metadata/aavegotchis/{id}",
-            "defaultImage"      : "https://lh3.googleusercontent.com/tch-qD7u-5QkwwdxQ4VS2iXsOxXE6EXimBmMVEqkdXnJY19eMYlp7szZodSCJWFX_CZ0Il0pByCEhdFU5zws1aLK1hm_zho5cMAqDw=s168"
+            "defaultImage"      : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png"
         }
     ]
 }
