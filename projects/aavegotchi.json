@@ -80,7 +80,7 @@
             "apiMetadata"       : "hhttps://app.aavegotchi.com/metadata/aavegotchis/{id}",
             "defaultImage"      : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png"
         },
-       {
+         {
             "assetName"       : "Aavegotchi Werables",
             "backgroundBanner"  : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png",
             "contractType"      : "ERC1155",
@@ -88,6 +88,6 @@
             "contractAddress"   : "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
             "apiMetadata"       : "https://app.aavegotchi.com/metadata/items/{id}",
             "defaultImage"      : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png"
-        },        
+        }        
     ]
 }
