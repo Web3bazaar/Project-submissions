@@ -59,8 +59,8 @@
             "contractType"      : "ERC1155",
             "decimals"          :  1,
             "contractAddress"   : "0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11",
-            "apiMetadata"       : "https://app.aavegotchi.com/metadata/realm/{id}",
-            "defaultImage"      : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png"
+            "apiMetadata"       : "",
+            "defaultImage"      : "https://medium.com/yield-guild-games/yield-guild-games-and-its-subdaos-purchase-800k-worth-of-nft-assets-in-aavegotchi-metaverse-24afa50decf4"
         },
         {
             "assetName"       : "Gotchiverse Installations",
