@@ -79,15 +79,6 @@
             "contractAddress"   : "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
             "apiMetadata"       : "hhttps://app.aavegotchi.com/metadata/aavegotchis/{id}",
             "defaultImage"      : "https://lh3.googleusercontent.com/tch-qD7u-5QkwwdxQ4VS2iXsOxXE6EXimBmMVEqkdXnJY19eMYlp7szZodSCJWFX_CZ0Il0pByCEhdFU5zws1aLK1hm_zho5cMAqDw=s168"
-        },
-        {
-            "assetName"       : "Aavegotchi Wereables",
-            "backgroundBanner"  : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png",
-            "contractType"      : "ERC1155",
-            "decimals"          :  1,
-            "contractAddress"   : "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
-            "apiMetadata"       : "hhttps://app.aavegotchi.com/metadata/aavegotchis/{id}",
-            "defaultImage"      : "https://lh3.googleusercontent.com/tch-qD7u-5QkwwdxQ4VS2iXsOxXE6EXimBmMVEqkdXnJY19eMYlp7szZodSCJWFX_CZ0Il0pByCEhdFU5zws1aLK1hm_zho5cMAqDw=s168"
-        },          
+        }
     ]
 }
