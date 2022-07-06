@@ -59,8 +59,8 @@
             "contractType"      : "ERC1155",
             "decimals"          :  1,
             "contractAddress"   : "0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11",
-            "apiMetadata"       : "",
-            "defaultImage"      : "https://nftplazas.com/wp-content/uploads/2021/10/mapgotchi.jpg"
+            "apiMetadata"       : "https://app.aavegotchi.com/metadata/realm/{id}",
+            "defaultImage"      : "https://wiki.aavegotchi.com/gotchiverse/aavegotchi-realm.png"
         },
         {
             "assetName"       : "Gotchiverse Installations",
