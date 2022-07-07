@@ -6,19 +6,19 @@
     "twitter"       : "https://www.twitter.com/FantasyBagsNFT",
     "github"        : "",
     "website"       : "https://fantasybags.win/",
-    "banner"        : "https://static.wixstatic.com/media/dfb7ef_0386ce126aa84830a39baa0dc28b8dd6~mv2.png/v1/fill/w_560,h_362,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cards2.png"
-    
+    "banner"        : "https://static.wixstatic.com/media/dfb7ef_0386ce126aa84830a39baa0dc28b8dd6~mv2.png/v1/fill/w_560,h_362,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cards2.png",    
+
     "assets"        : [
         {
             "assetName"       : "Fantasy Bags cards",
             "backgroundBanner"  : "https://static.wixstatic.com/media/dfb7ef_0386ce126aa84830a39baa0dc28b8dd6~mv2.png/v1/fill/w_560,h_362,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cards2.png",
-            "contractType"      : "ERC1155",
+            "contractType"      : "ERC721",
             "decimals"          : "1",
             "contractAddress"   : "0xDFD6f44EE78afD7a6eEb0af796E943c7D0b6F1ef",
             "apiMetadata"       : "",
             "defaultImage"      : ""
         },
-    ]
+    ],
             "opensea_collections" : [
         {
             "name" : "Fantasy Bags Collection",
