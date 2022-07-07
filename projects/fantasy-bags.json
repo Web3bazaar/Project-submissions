@@ -17,7 +17,7 @@
             "contractAddress"   : "0xDFD6f44EE78afD7a6eEb0af796E943c7D0b6F1ef",
             "apiMetadata"       : "",
             "defaultImage"      : ""
-        },
+        }
     ],
             "opensea_collections" : [
         {
@@ -25,6 +25,4 @@
             "link" : "https://opensea.io/collection/fantasy-bags"
         }
     ]
-
-
 }
