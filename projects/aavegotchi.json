@@ -84,7 +84,7 @@
          {
             "assetName"         : "Aavegotchis",
             "backgroundBanner"  : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png",
-            "contractType"      : "ERC1155",
+            "contractType"      : "ERC721",
             "decimals"          :  1,
             "contractAddress"   : "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
             "apiMetadata"       : "https://app.aavegotchi.com/metadata/aavegotchis/{id}",
