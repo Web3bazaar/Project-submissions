@@ -89,7 +89,7 @@
             "contractAddress"   : "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
             "apiMetadata"       : "https://app.aavegotchi.com/metadata/items/{id}",
             "defaultImage"      : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png",
-            "graphql"           : "https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic/"
+            "graphql"           : "https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic"
         }  
     ]
 }
