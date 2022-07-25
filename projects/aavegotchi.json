@@ -60,7 +60,10 @@
             "decimals"          :  1,
             "contractAddress"   : "0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11",
             "apiMetadata"       : "https://app.aavegotchi.com/metadata/realm/{id}",
-            "defaultImage"      : "https://wiki.aavegotchi.com/gotchiverse/aavegotchi-realm.png"
+            "defaultImage"      : "https://wiki.aavegotchi.com/gotchiverse/aavegotchi-realm.png",
+            "graphqlUrl"        : "https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic",
+            "graphqlQuery"      : "{user(id: {wa}) {parcelsOwned {id}}}",
+            "graphqlField"      : "parcelsOwned"
         },
         {
             "assetName"       : "Gotchiverse Installations",
@@ -89,7 +92,9 @@
             "contractAddress"   : "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
             "apiMetadata"       : "https://app.aavegotchi.com/metadata/aavegotchis/{id}",
             "defaultImage"      : "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/8/1-hvdvynbNjWCcpppHv8nuuw.png",
-            "graphql"           : "https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic"
+            "graphqlUrl"        : "https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic",
+            "graphqlQuery"      : "{user(id: {wa}) {gotchisOwned {id}}}",
+            "graphqlField"      : "gotchisOwned"
         }  
     ]
 }
