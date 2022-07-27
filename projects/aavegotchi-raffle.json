@@ -13,6 +13,7 @@
             "tokenImage"        : "https://raw.githubusercontent.com/Web3bazaar/raffle-tickets/main/projects/aavegotchi/assets/aavegotchi-w3b.png",
             "contractType"      : "ERC721",
             "decimals"          : 18,
+	    "apiMetadata"       : "https://raw.githubusercontent.com/Web3bazaar/giveways/main/projects/aavegotchi/data/{id}",
             "contractAddress"      : "0x38956B1dC388592bbA4D373a7bCC029F7FE51d6b"
         }
     ]
