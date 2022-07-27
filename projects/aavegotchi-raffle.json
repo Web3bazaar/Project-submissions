@@ -1,0 +1,21 @@
+{
+	"name": "Aavegotchi",
+	"nameId": "aavegotchi",
+	"description": "",
+	"raffleContractAddress": "0x38956B1dC388592bbA4D373a7bCC029F7FE51d6b",
+	"erc20TokenAddress": "0x89A84dc58ABA7909818C471B2EbFBc94e6C96c41",
+	"erc20TokenDecimals": "18",
+	"chainId"       : "0x89",
+	 "assets" : 
+    [
+        {
+            "assetName"       : "Aavegotchi Raffle Ticket",
+            "tokenImage"        : "https://raw.githubusercontent.com/Web3bazaar/raffle-tickets/main/projects/aavegotchi/assets/aavegotchi-w3b.png",
+            "contractType"      : "ERC721",
+            "decimals"          : 18,
+            "contractAddress"      : "0x38956B1dC388592bbA4D373a7bCC029F7FE51d6b"
+        }
+    ]
+
+}
+
