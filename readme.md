@@ -47,6 +47,9 @@ Fill in the fields WITHIN `< >` on the right-end of every line with the unique d
 - link : < OpenSea collection URL >    
 }   
 
+**Before submitting please validate your JSON [`here`](https://jsonlint.com/)**
+
+
 ## ✅ Reviewing proccess 
 
 Our Team and community manually review the applications and publish the results of the due diligence in the comments, adding a a recommendation for approval or rejection. Core team will then do the final review and approve the pull request, commiting it to the master branch and automatically deploying the Blue checkmark on all newly verified assets.
