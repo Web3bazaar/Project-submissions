@@ -1,0 +1,58 @@
+{
+    "name"          : "oortdigital",
+    "description"   : "oort digital is a project about gamefi, nft rental platform and more",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.com/invite/qB2FRTjzAh",
+    "twitter"       : "https://twitter.com/OortDigital",
+    "github"        : "",
+    "website"       : "https://oort.digital/",
+    "docs"          : "https://docs.oort.digital/",
+    "banner"        : "https://571637022-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MQl-pNn4h85n38thIu9%2Fuploads%2FE1GwpXAb9mMNSoQJwfov%2FUntitled%20design%20-%202021-12-29T142023.863.png?alt=media&token=81f17ddc-2468-475a-9c5a-bb87f0fa1d71"
+    
+    "assets"        : [
+        {
+            "assetName" : "oort hero avatars",
+            "backgroundBanner" : "https://lh3.googleusercontent.com/4Luc8EthLWs74qNOiv2-KMU47gtqhQg8RNwGT76oqJb8k6RS0o13Gr-FwfXOgFWDayXKBXV3oRTls5huPaYYyId0CMUNjNvrJUqO=h600",
+            "contractType" : "ERC721",
+            "decimals" : 1,
+            "contractAddress" : "0x5a68F10109228ce53A46B5CE60E2DB4af74192cB"
+            "apiMetadata"       : "",
+            "defaultImage"      : "https://lh3.googleusercontent.com/GwdndbynwFToDDywUNi8OIxFmgwrt8GeswK0J24522Blo9b_A3Wnt2ggiF5Yg8sisssikkHZHNFslBLmTKu7Z3jZBhEZtqUZ6bA8cw=w600"
+        },
+        {
+            "assetName"         : "oort items",
+            "backgroundBanner"  : "https://lh3.googleusercontent.com/9-dQG36epgDoD-2UMDZ46MMjn2UQewirF09qjtRIJMsPC_yhuSnqOJ4EP62If-AdusuQWcPDL51HIgo8rA1cNgGII9x2ImxF00vOBlI=h600",
+            "contractType"      : "ERC1155",
+            "decimals"          : 1,
+            "contractAddress"   : "0xf6994fb8361BF876282A64A96826fe76a7018Fb1",
+            "apiMetadata"       : "",
+            "defaultImage"      : "https://lh3.googleusercontent.com/KH244sxRNB1Q671D4oVdmfs2nyG3vIZGC3tSs9yYVnM2SlppCN7rc71wYL6Z8picC3JNLBLbERluZprO-mPI-OMKc9qHpfnEqvVw=w600"
+        },
+        {
+            "assetName"         : "oort tickets",
+            "backgroundBanner"  : "https://lh3.googleusercontent.com/iv5N8U3Ju1ieNPgnVQBjm2LNYKMJzObm2GuWtl3MrQLIe3yWRUG0SUqiWn2TyniuENhG0-JrV4J7eGH-XkCFfdY00A5pGlTpYCk6hg=h600",
+            "contractType"      : "ERC1155",
+            "decimals"          : 1,
+            "contractAddress"   : "0xF8bBdfe53462E900f844AfD49687104c0A3C0954",
+            "apiMetadata"       : "",
+            "defaultImage"      : "https://lh3.googleusercontent.com/vJImrITLkR5n69PS2sJpnsY9osSxY8YfTUAOpHP1S9wNgMLFJLqy_ajJoHIMQ5o5s6GNCCFSEbg1QVVUTDiLLzgkKb4eX5SV_FVe=w600"
+
+        },
+    ],
+            "opensea_collections" : [
+        {
+            "name" : "oort hero avatars Collection",
+            "link" : "https://opensea.io/collection/oort-hero-avatars"
+        },
+        {
+            "name" : "oort items Collection",
+            "link" : "https://opensea.io/collection/oort-items"
+        },
+        {
+            "name" : "oort tickets Collection",
+            "link" : "https://opensea.io/collection/oort-tickets"
+        },
+    ],
+
+
+}
