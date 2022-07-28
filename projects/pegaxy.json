@@ -1,30 +1,28 @@
 {
-    "name"          : "Pegaxy",
-    "description"   : "Racing game with futuristic mythological style",
-    "chainId"       : "0x89",
-    "discord"       : "https://discord.com/invite/pegaxy",
-    "twitter"       : "https://twitter.com/pegaxyofficial",
-    "github"        : "",
-    "docs"          : "",
-    "website"       : "https://pegaxy.io/",
-    "banner"        : "https://i0.wp.com/www.unitedgamers.gg/wp-content/uploads/2022/03/Pegaxy-Galaxy-Nebula.jpg?fit=1920%2C1080&ssl=1",
-    "opensea_collections" : [],
-    "assets" : 
-    [ 
-        {
-            "assetName"       : "Vigorus (VIS)",
-            "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/200x200/13103.png",
-            "contractType"      : "ERC20",
-            "decimals"          : 18,
-            "contractAddress"      : "0xcC1B9517460D8aE86fe576f614d091fCa65a28Fc"
-        },
-        {
-            "assetName"       : "Pegaxy Stone (PGX)",
-            "tokenImage"        : "https://coinmarketcap.com/pt-br/currencies/pegaxy/",
-            "contractType"      : "ERC20",
-            "decimals"          : 18,
-            "contractAddress"      : "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE"
-        },
-    ]
+	"name": "Pegaxy",
+	"description": "Racing game with futuristic mythological style",
+	"chainId": "0x89",
+	"discord": "https://discord.com/invite/pegaxy",
+	"twitter": "https://twitter.com/pegaxyofficial",
+	"github": "",
+	"docs": "",
+	"website": "https://pegaxy.io/",
+	"banner": "https://i0.wp.com/www.unitedgamers.gg/wp-content/uploads/2022/03/Pegaxy-Galaxy-Nebula.jpg?fit=1920%2C1080&ssl=1",
+	"opensea_collections": [],
+	"assets": [{
+			"assetName": "Vigorus (VIS)",
+			"tokenImage": "https://s2.coinmarketcap.com/static/img/coins/200x200/13103.png",
+			"contractType": "ERC20",
+			"decimals": 18,
+			"contractAddress": "0xcC1B9517460D8aE86fe576f614d091fCa65a28Fc"
+		},
+		{
+			"assetName": "Pegaxy Stone (PGX)",
+			"tokenImage": "https://coinmarketcap.com/pt-br/currencies/pegaxy/",
+			"contractType": "ERC20",
+			"decimals": 18,
+			"contractAddress": "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE"
+		}
+	]
 
 }
