@@ -6,7 +6,8 @@
 	"erc20TokenAddress": "0x89A84dc58ABA7909818C471B2EbFBc94e6C96c41",
 	"erc20TokenDecimals": "18",
 	"chainId"       : "80001",
-	 "assets" : 
+	"banner"        : "https://pbs.twimg.com/profile_banners/1483464791737970689/1642590074/1500x500",
+	"assets" : 
     [
         {
             "assetName"       : "Aavegotchi Raffle Ticket",
