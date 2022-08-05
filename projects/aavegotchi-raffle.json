@@ -2,7 +2,7 @@
 	"name": "Aavegotchi",
 	"nameId": "aavegotchi",
 	"description": "",
-	"raffleContractAddress": "0x38956B1dC388592bbA4D373a7bCC029F7FE51d6b",
+	"raffleContractAddress": "0x5095E1435ff974B92b06eCE3E00ca52093C59D8a",
 	"erc20TokenAddress": "0x89A84dc58ABA7909818C471B2EbFBc94e6C96c41",
 	"erc20TokenDecimals": "18",
 	"chainId"       : "80001",
