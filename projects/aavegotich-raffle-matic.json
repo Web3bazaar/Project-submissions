@@ -1,0 +1,23 @@
+{
+	"name": "Aavegotchi",
+	"nameId": "aavegotchi",
+	"description": "",
+	"raffleContractAddress": "0xa80e4eA13aC0d8Fb1bfD1f57697cB49B445eF8Db",
+	"erc20TokenAddress": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+	"erc20TokenDecimals": "18",
+	"chainId"       : "0x89",
+	"banner"        : "https://pbs.twimg.com/profile_banners/1483464791737970689/1642590074/1500x500",
+	"assets" : 
+    [
+        {
+            "assetName"       : "Aavegotchi Raffle Ticket",
+            "tokenImage"        : "https://raw.githubusercontent.com/Web3bazaar/raffle-tickets/main/projects/aavegotchi/assets/aavegotchi-w3b.png",
+            "contractType"      : "ERC721",
+            "decimals"          : 18,
+	    "apiMetadata"       : "https://raw.githubusercontent.com/Web3bazaar/giveways/main/projects/aavegotchi/data/{id}",
+            "contractAddress"      : "0x5095E1435ff974B92b06eCE3E00ca52093C59D8a"
+        }
+    ]
+
+}
+
