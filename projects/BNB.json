@@ -1,0 +1,23 @@
+{
+    "name"          : "bnb",
+    "description"   : "BNB is the cryptocurrency coin that powers the BNB Chain ecosystem",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.gg/jE4wt8g2H2/",
+    "twitter"       : "https://twitter.com/binance/",
+    "github"        : "https://github.com/binance-exchange/",
+    "website"       : "https://binance.com/",
+    "banner"        : "https://public.bnbstatic.com/image/cms/blog/20210421/44a3d2bc-9ba8-4950-be05-851e42baf71e.jpg",
+    "opensea_collections" : [],
+    "assets"        : [
+        {
+            "assetName" : "BNB",
+            "tokenImage" : "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+            "contractType" : "ERC20",
+            "decimals" : 18,
+            "contractAddress" : "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3"
+        }
+        
+    ]
+
+
+}
