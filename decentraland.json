@@ -1,0 +1,43 @@
+{
+    "name"          : "Decentraland",
+    "description"   : "decentralized virtual reality platform powered by the Ethereum blockchain",
+    "chainId"       : "0x89",
+    "discord"       : "https://decentraland.org/discord",
+    "twitter"       : "https://twitter.com/decentraland",
+    "github"        : "https://github.com/decentraland",
+    "website"       : "https://decentraland.org/",
+    "banner"        : "https://img.freepik.com/premium-vector/decentraland-mana-crypto-currency-logo-vector-illustration-technology-banner-wallpaper-template_5555-716.jpg",
+    
+    "assets"        : [
+        {
+            "assetName" : "MANA",
+            "tokenImage" : "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png",
+            "contractType" : "ERC20",
+            "decimals" : 18,
+            "contractAddress" : "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
+        },
+       {
+            "assetName" : "MANA",
+            "tokenImage" : "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png",
+            "contractType" : "ERC20",
+            "decimals" : 18,
+            "contractAddress" : "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4"
+        },
+      {
+            "assetName"       : "Estate",
+            "backgroundBanner"  : "https://img.freepik.com/premium-vector/decentraland-mana-crypto-currency-logo-vector-illustration-technology-banner-wallpaper-template_5555-716.jpg",
+            "contractType"      : "ERC721",
+            "decimals"          :  1,
+            "contractAddress"   : "0x959e104E1a4dB6317fA58F8295F586e1A978c297",
+            "apiMetadata"       : "",
+            "defaultImage"      : "https://img.seadn.io/files/fef1ed8943846c65647b0ac29fd3a3bd.png"
+        }   
+    ],
+            "opensea_collections" : [
+        {
+            "name" : "Main Road Asset",
+            "link" : "https://opensea.io/assets/ethereum/0x959e104e1a4db6317fa58f8295f586e1a978c297/643" 
+        }
+    ]
+          
+}
