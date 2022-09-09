@@ -10,11 +10,11 @@
     "opensea_collections" : [],
     "assets"        : [
         {
-            "assetName" : "BNB",
+            "assetName" : "WBNB",
             "tokenImage" : "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
             "contractType" : "ERC20",
             "decimals" : 18,
-            "contractAddress" : "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3"
+            "contractAddress" : "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F"
         }
         
     ]
