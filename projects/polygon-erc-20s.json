@@ -67,5 +67,235 @@
           "decimals"          : 18,
           "contractAddress"      : "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a"
       }
+{
+        "assetName"        : "Compound (COMP)",
+        "tokenImage"       : "https://polygonscan.com/token/images/comp_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c"
+        }, 
+ {
+        "assetName"        : "Gemini dollar (GUSD)",
+        "tokenImage"       : "https://polygonscan.com/token/images/gemini_28.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 2,
+        "contractAddress"  : "0xC8A94a3d3D2dabC3C1CaffFFDcA6A7543c3e3e65"
+        }, 
+ {
+        "assetName"        : "HoloToken (HOT)",
+        "tokenImage"       : "https://polygonscan.com/token/images/holo_28.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x0C51f415cF478f8D08c246a6C6Ee180C5dC3A012"
+        }, 
+ {
+        "assetName"        : "Wootrade Network (WOO)",
+        "tokenImage"       : "https://polygonscan.com/token/images/wootradepoly_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603"
+        }, 
+{
+        "assetName"        : "Tether usd (USDT)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 6,
+        "contractAddress"  : "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+        }, 
+{
+        "assetName"        : "TrueUsd (TUSD)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756"
+        }, 
+{
+        "assetName"        : "theta network token(THETA)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xB46E0ae620EFd98516f49bb00263317096C114b2"
+        },
+        {
+        "assetName"        : "theta token(TFUEL)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/3822.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xB46E0ae620EFd98516f49bb00263317096C114b2"
+        }, 
+{
+        "assetName"        : "the Graph(GRT)",
+        "tokenImage"       : "https://polygonscan.com/token/images/TheGraph_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x5fe2B58c013d7601147DcdD68C143A77499f5531"
+        },
+ {
+        "assetName"        : "TerraUSD token",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x692597b009d13C4049a947CAB2239b7d6517875F"
+        }, 
+{
+        "assetName"        : "Synthetix (SNX)",
+        "tokenImage"       : "https://polygonscan.com/token/images/synthetix-snx_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x50B728D8D964fd00C2d0AAD81718b71311feF68a"
+        }, 
+{
+            "assetName" : "synapse token(SYN)",
+            "tokenImage" : "https://s2.coinmarketcap.com/static/img/coins/64x64/12147.png"
+            "contractType" : "ERC20",
+            "decimals" : 18,
+            "contractAddress" : "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695"
+        },
+ {
+        "assetName"        : "pax dollar(PAX)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x6F3B3286fd86d8b47EC737CEB3D0D354cc657B3e"
+        }, 
+{
+        "assetName"        : "nexo token (NEXO)",
+        "tokenImage"       : "https://polygonscan.com/token/images/nexo_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E"
+        }, 
+{
+        "assetName"        : "Maker(MKR)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x6f7C932e7684666C9fd1d44527765433e01fF61d"
+        }, 
+{
+        "assetName"        : "loopring(LRC)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/1934.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1"
+        }, 
+{
+        "assetName"        : "Huobi token",
+        "tokenImage"       : "https://polygonscan.com/token/images/huobi_28.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xFAD65Eb62a97fF5Ed91B23aFD039956aaCa6e93b"
+        }, 
+{
+        "assetName"        : "Gnosis(GNO)",
+        "tokenImage"       : "https://polygonscan.com/token/images/gnosans_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8"
+        }, 
+{
+        "assetName"        : "FRAX token",
+        "tokenImage"       : "https://polygonscan.com/token/images/frax_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89"
+        },
+ {
+        "assetName"        : "FRAX shares(FXS)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+        },
+ {
+        "assetName"        : "Fantom token (FTM)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1"
+        },
+ {
+        "assetName"        : "EnjinCoin",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x7eC26842F195c852Fa843bB9f6D8B583a274a157"
+        }, 
+{
+        "assetName"        : "decentralized usd(USDD)",
+        "tokenImage"       : "https://polygonscan.com/token/images/usddtron_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xFFA4D863C96e743A2e1513824EA006B8D0353C57"
+        }, 
+{
+        "assetName"        : "Decentraland token (MANA)",
+        "tokenImage"       : "https://polygonscan.com/token/images/decentraland_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4"
+        }, 
+{
+        "assetName"        : "curve DAO token (CRV)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x172370d5Cd63279eFa6d502DAB29171933a610AF"
+        }, 
+{
+        "assetName"        : "cronos coin(CRO)",
+        "tokenImage"       : "https://polygonscan.com/token/images/cro_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 8,
+        "contractAddress"  : "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C"
+        }, 
+{
+        "assetName"        : "chiliZ",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xf1938Ce12400f9a761084E7A80d37e732a4dA056"
+        }, 
+{
+        "assetName"        : "celcius token (CEL)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/2700.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 4,
+        "contractAddress"  : "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6"
+        },
+ {
+        "assetName"        : "BNB",
+        "tokenImage"       : "https://polygonscan.com/token/images/bnb_28_2.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3"
+        },
+{        "assetName"        : "Bitfinex LEO Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/leo_28_2.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x06D02e9D62A13fC76BB229373FB3BBBD1101D2fC"
+        },
+ {
+        "assetName"        : "BAT",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x3Cef98bb43d732E2F285eE605a8158cDE967D219"
+        },
+ {
+        "assetName"        : "AMP",
+        "tokenImage"       : "https://polygonscan.com/token/images/amp_32.png?v=2"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : " 0x0621d647cecbFb64b79E44302c1933cB4f27054d"
+        }, 
+{
+            "assetName" : "1inch token",
+            "tokenImage" : "https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png",
+            "contractType" : "ERC20",
+            "decimals" : 18,
+            "contractAddress" : "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f"
+        }
   ]
 } 
