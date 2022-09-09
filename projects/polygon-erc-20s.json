@@ -67,5 +67,173 @@
           "decimals"          : 18,
           "contractAddress"      : "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a"
       }
+{
+        "assetName"        : "Aavegotchi GHST Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/aavegotchighst_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7"
+        }, 
+{
+        "assetName"        : "beefy.finance",
+        "tokenImage"       : "https://polygonscan.com/token/images/beefy_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xFbdd194376de19a88118e84E279b977f165d01b8"
+        }, 
+{
+        "assetName"        : "Everipedia IQ",
+        "tokenImage"       : "https://polygonscan.com/token/images/everipedia_32.png?v=2"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xB9638272aD6998708de56BBC0A290a1dE534a578"
+        }, 
+{
+        "assetName"        : "Mask Network",
+        "tokenImage"       : "https://polygonscan.com/token/images/mask_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7"
+        },
+ {
+        "assetName"        : "renBTC",
+        "tokenImage"       : "https://polygonscan.com/token/images/renbtcpoly_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 8,
+        "contractAddress"  : "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501"
+        }, 
+{
+        "assetName"        : "Bancor",
+        "tokenImage"       : "https://polygonscan.com/token/images/bancor_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842"
+        }, 
+{
+        "assetName"        : "Telcoin",
+        "tokenImage"       : "https://polygonscan.com/token/images/telcoin_28.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 2,
+        "contractAddress"  : "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32"
+        }, 
+{
+        "assetName"        : "Ocean Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/oceantoken_28.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x282d8efCe846A88B159800bd4130ad77443Fa1A1"
+        }, 
+{
+        "assetName"        : "ZRX Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/zrx_28.png?v=3"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5"
+        }, 
+{
+        "assetName"        : "Render Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/render_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x61299774020dA444Af134c82fa83E3810b309991"
+        }, 
+{
+        "assetName"        : "Balancer (BAL)",
+        "tokenImage"       : "https://polygonscan.com/token/images/Balancer_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3"
+        }, 
+{
+        "assetName"        : "Golem Network Token (GLM)",
+        "tokenImage"       : "https://polygonscan.com/token/images/golem-glm_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf"
+        }, 
+{
+        "assetName"        : "Rocket Pool",
+        "tokenImage"       : "https://polygonscan.com/token/images/Rocketpool_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x7205705771547cF79201111B4bd8aaF29467b9eC"
+        }, 
+{
+        "assetName"        : "miMATIC",
+        "tokenImage"       : "https://polygonscan.com/token/images/miMatic_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1"
+        }, 
+{
+        "assetName"        : "Gains Network",
+        "tokenImage"       : "https://polygonscan.com/token/images/gainsnetwork_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xE5417Af564e4bFDA1c483642db72007871397896"
+  }, 
+{
+        "assetName"        : "PlanetIX",
+        "tokenImage"       : "https://polygonscan.com/token/images/planetix_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE"
+        }, 
+{
+        "assetName"        : "EverRise",
+        "tokenImage"       : "https://polygonscan.com/token/images/everrise_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xC17c30e98541188614dF99239cABD40280810cA3"
+        }, 
+{
+        "assetName"        : "Decentral Games",
+        "tokenImage"       : "https://polygonscan.com/token/images/decentralgame_32.png?v=5"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xef938b6da8576a896f6E0321ef80996F4890f9c4"
+        }, 
+{
+        "assetName"        : "Klima DAO Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/klimadao_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 9,
+        "contractAddress"  : "0x4e78011Ce80ee02d2c3e649Fb657E45898257815"
+        },
+ {
+        "assetName"        : "RouteToken",
+        "tokenImage"       : "https://polygonscan.com/token/images/routerprotocol_32.png?=v2"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4"
+        }, 
+{
+        "assetName"        : "KastaToken",
+        "tokenImage"       : "https://polygonscan.com/token/images/kasta2_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x235737dBb56e8517391473f7c964DB31fA6ef280"
+        },
+ {
+        "assetName"        : "MANTRA DAO Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/mantradao_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea"
+        }, 
+{
+        "assetName"        : "Stake DAO Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/stakedaopoly_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x361A5a4993493cE00f61C32d4EcCA5512b82CE90"
+        }, 
+{
+        "assetName"        : "Decentral Games Governance",
+        "tokenImage"       :.  "https://polygonscan.com/token/images/decentralgamesgov_32.png?v=1"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xc6480Da81151B2277761024599E8Db2Ad4C388C8"
+        }
   ]
 } 
