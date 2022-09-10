@@ -230,7 +230,7 @@
         }, 
 {
         "assetName"        : "Decentral Games Governance",
-        "tokenImage"       :.  "https://polygonscan.com/token/images/decentralgamesgov_32.png?v=1"
+        "tokenImage"       : "https://polygonscan.com/token/images/decentralgamesgov_32.png?v=1"
         "contractType"     : "ERC20",
         "decimals"         : 18,
         "contractAddress"  : "0xc6480Da81151B2277761024599E8Db2Ad4C388C8"
