@@ -1,0 +1,28 @@
+{
+    "name"          : "Band_Protocol",
+    "description"   : "cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts",
+    "chainId"       : "0x89",
+    "discord"       : "https://100x.band/discord",
+    "twitter"       : "https://twitter.com/BandProtocol",
+    "github"        : "https://github.com/bandprotocol",
+    "website"       : "https://bandprotocol.com/",
+    "banner"        : "https://icodrops.com/wp-content/uploads/2019/09/band.png",
+    
+    "assets"        : [
+        {
+            "assetName" : "BAND",
+            "tokenImage" : "https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png",
+            "contractType" : "ERC20",
+            "decimals" : 18,
+            "contractAddress" : "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55"
+        },
+         {
+            "assetName" : "BAND",
+            "tokenImage" : "https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png",
+            "contractType" : "ERC20",
+            "decimals" : 18,
+            "contractAddress" : "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac"
+        } 
+     ]
+          
+}
