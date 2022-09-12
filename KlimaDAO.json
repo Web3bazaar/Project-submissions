@@ -1,0 +1,37 @@
+{
+    "name"          : "Klima DAO",
+    "description"   : "",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.com/invite/klimadao",
+    "twitter"       : "https://twitter.com/KlimaDAO",
+    "github"        : "https://github.com/KlimaDAO",
+    "website"       : "https://www.klimadao.finance/",
+    "banner"        : "https://assets.coingecko.com/coins/images/19169/small/klima-logo.png?1634606729"
+    
+    "assets"        : [
+        {
+        "assetName"        : "Klima DAO Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/klimadao_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 9,
+        "contractAddress"  : "0x4e78011Ce80ee02d2c3e649Fb657E45898257815"
+        },
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
