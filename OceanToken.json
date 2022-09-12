@@ -1,0 +1,37 @@
+{
+    "name"          : "Ocean Token",
+    "description"   : "Ocean Protocol is an ecosystem for sharing data and associated services",
+    "chainId"       : "0x89",
+    "discord"       : "",
+    "twitter"       : "https://twitter.com/oceanprotocol",
+    "github"        : "https://github.com/oceanprotocol",
+    "website"       : "https://oceanprotocol.com/",
+    "banner"        : "https://polygonscan.com/token/images/oceantoken_28.png"
+    
+    "assets"        : [
+        {
+        "assetName"        : "Ocean Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/oceantoken_28.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x282d8efCe846A88B159800bd4130ad77443Fa1A1"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
