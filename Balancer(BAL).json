@@ -1,0 +1,37 @@
+{
+    "name"          : "Balancer",
+    "description"   : "BAL is the governance token for the Balancer Protocol",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.gg/ARJWaeF",
+    "twitter"       : "https://twitter.com/BalancerLabs",
+    "github"        : "",
+    "website"       : "https://balancer.finance/",
+    "banner"        : "https://polygonscan.com/token/images/Balancer_32.png"
+    
+    "assets"        : [
+        {
+        "assetName"        : "Balancer (BAL)",
+        "tokenImage"       : "https://polygonscan.com/token/images/Balancer_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
