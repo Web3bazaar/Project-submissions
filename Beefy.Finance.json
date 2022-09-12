@@ -1,0 +1,37 @@
+{
+    "name"          : "beefy.finance",
+    "description"   : "Beefy Finance is a Decentralized, Multi-Chain Yield Optimizer platform that allows its users to earn compound interest on their crypto holdings.",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.gg/yq8wfHd",
+    "twitter"       : "https://twitter.com/beefyfinance",
+    "github"        : "https://github.com/beefyfinance",
+    "website"       : "",
+    "banner"        : "https://polygonscan.com/token/images/beefy_32.png"
+    
+    "assets"        : [
+        {
+        "assetName"        : "beefy.finance",
+        "tokenImage"       : "https://polygonscan.com/token/images/beefy_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xFbdd194376de19a88118e84E279b977f165d01b8"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
