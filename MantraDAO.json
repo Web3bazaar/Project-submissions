@@ -1,0 +1,37 @@
+{
+    "name"          : "MANTRA DAO",
+    "description"   : "",
+    "chainId"       : "0x89",
+    "discord"       : "",
+    "twitter"       : "https://twitter.com/MANTRADAO",
+    "github"        : "https://github.com/Mantradao",
+    "website"       : "http://mantradao.com/",
+    "banner"        : "https://www.coingecko.com/en/coins/mantra"
+    
+    "assets"        : [
+    {
+    "assetName"        : "MANTRA DAO Token",
+    "tokenImage"       : "https://polygonscan.com/token/images/mantradao_32.png"
+    "contractType"     : "ERC20",
+    "decimals"         : 18,
+    "contractAddress"  : "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea"
+    },
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
