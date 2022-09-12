@@ -1,0 +1,37 @@
+{
+    "name"          : "Aavegotchi GHST Token",
+    "description"   : "Aavegotchi is decentralized finance (DeFi) based NFT collectable project",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.com/invite/aavegotchi",
+    "twitter"       : "https://twitter.com/aavegotchi",
+    "github"        : "https://github.com/aavegotchi",
+    "website"       : "",
+    "banner"        : "https://polygonscan.com/token/images/aavegotchighst_32.png"
+    
+    "assets"        : [
+        {
+        "assetName"        : "Aavegotchi GHST Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/aavegotchighst_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
