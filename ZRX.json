@@ -1,0 +1,37 @@
+{
+    "name"          : "ZRX",
+    "description"   : "ZRX is the governance token for the 0x protocol",
+    "chainId"       : "0x89",
+    "discord"       : "",
+    "twitter"       : "https://twitter.com/0xproject",
+    "github"        : "https://github.com/0xProject",
+    "website"       : "https://0x.org/",
+    "banner"        : "https://polygonscan.com/token/images/zrx_28.png?v=3"
+    
+    "assets"        : [
+        {
+        "assetName"        : "ZRX Token",
+        "tokenImage"       : "https://polygonscan.com/token/images/zrx_28.png?v=3"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
