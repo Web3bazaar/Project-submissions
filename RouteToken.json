@@ -1,0 +1,37 @@
+{
+    "name"          : "Route token",
+    "description"   : "Cross-chain liquidity aggregator governance token",
+    "chainId"       : "0x89",
+    "discord"       : "",
+    "twitter"       : "https://twitter.com/routerprotocol",
+    "github"        : "https://github.com/router-protocol",
+    "website"       : "https://www.routerprotocol.com/",
+    "banner"        : "https://assets.coingecko.com/coins/images/13709/small/route_token_200x200-19.png?1611057698"
+    
+    "assets"        : [
+        {
+        "assetName"        : "RouteToken",
+        "tokenImage"       : "https://polygonscan.com/token/images/routerprotocol_32.png?=v2"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
