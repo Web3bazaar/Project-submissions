@@ -1,0 +1,37 @@
+{
+    "name"          : "Gains Network",
+    "description"   : "Gains Network brings decentralized leveraged trading to #Polygon.",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.gg/Zj6Uub2wZ7",
+    "twitter"       : "https://twitter.com/GainsNetwork_io",
+    "github"        : "",
+    "website"       : "https://gains.trade",
+    "banner"        : "https://polygonscan.com/token/images/gainsnetwork_32.png"
+    
+    "assets"        : [
+        {
+        "assetName"        : "Gains Network",
+        "tokenImage"       : "https://polygonscan.com/token/images/gainsnetwork_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xE5417Af564e4bFDA1c483642db72007871397896"
+        },
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
