@@ -1,0 +1,37 @@
+{
+    "name"          : "EverRise",
+    "description"   : "EverRise is a blockchain technology company focused on increasing accessibility to decentralized finance by bringing security solutions to the space",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.com/invite/everrise",
+    "twitter"       : "https://twitter.com/everrise",
+    "github"        : "https://github.com/everrise-ecosystem",
+    "website"       : "http://www.everrise.com/",
+    "banner"        : "https://assets.coingecko.com/coins/images/16367/small/Logo_EverRise_Icon_logo.png?1642576670"
+    
+    "assets"        : [
+        {
+        "assetName"        : "EverRise",
+        "tokenImage"       : "https://polygonscan.com/token/images/everrise_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xC17c30e98541188614dF99239cABD40280810cA3"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
