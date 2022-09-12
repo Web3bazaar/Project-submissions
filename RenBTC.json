@@ -1,0 +1,37 @@
+{
+    "name"          : "renBTC",
+    "description"   : "renBTC is a synthetic asset that represents the value of bitcoin and it is created by the Ren protocol",
+    "chainId"       : "0x89",
+    "discord"       : "",
+    "twitter"       : "https://twitter.com/renprotocol",
+    "github"        : "https://github.com/renproject",
+    "website"       : "",
+    "banner"        : "https://polygonscan.com/token/images/renbtcpoly_32.png"
+    
+    "assets"        : [
+        {
+        "assetName"        : "renBTC",
+        "tokenImage"       : "https://polygonscan.com/token/images/renbtcpoly_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 8,
+        "contractAddress"  : "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
