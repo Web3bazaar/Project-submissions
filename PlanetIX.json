@@ -1,0 +1,37 @@
+{
+    "name"          : "PlanetIX",
+    "description"   : "Planet IX is an NFT-based GameFi strategy game",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.com/invite/planetix",
+    "twitter"       : "https://www.twitter.com/planetix0",
+    "github"        : "",
+    "website"       : "http://www.planetix.com/",
+    "banner"        : "https://assets.coingecko.com/coins/images/20927/small/IXT_LOGO_PNG_RGB_200X.png?1657602069"
+    
+    "assets"        : [
+        {
+        "assetName"        : "PlanetIX",
+        "tokenImage"       : "https://polygonscan.com/token/images/planetix_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
