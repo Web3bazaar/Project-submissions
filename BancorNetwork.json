@@ -1,0 +1,37 @@
+{
+    "name"          : "Bancor network",
+    "description"   : "",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.gg/qSs7tsC",
+    "twitter"       : "https://twitter.com/bancornetwork",
+    "github"        : "https://github.com/bancorprotocol",
+    "website"       : "https://bancor.network/",
+    "banner"        : "https://polygonscan.com/token/images/bancor_32.png"
+    
+    "assets"        : [
+        {
+        "assetName"        : "Bancor",
+        "tokenImage"       : "https://polygonscan.com/token/images/bancor_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
