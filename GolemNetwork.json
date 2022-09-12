@@ -1,0 +1,37 @@
+{
+    "name"          : "Golem Network Token",
+    "description"   : "Golem is a decentralized supercomputer that is accessible by anyone",
+    "chainId"       : "0x89",
+    "discord"       : "",
+    "twitter"       : "https://twitter.com/golemproject",
+    "github"        : "https://github.com/golemfactory/golem",
+    "website"       : "https://golem.network/",
+    "banner"        : "https://assets.coingecko.com/coins/images/542/small/Golem_Submark_Positive_RGB.png?1606392013"
+    
+    "assets"        : [
+        {
+        "assetName"        : "Golem Network Token (GLM)",
+        "tokenImage"       : "https://polygonscan.com/token/images/golem-glm_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
