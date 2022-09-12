@@ -1,0 +1,37 @@
+{
+    "name"          : "miMATIC",
+    "description"   : "miMatic is an algorithmic stablecoin that is collateralized with Matic tokens",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.com/invite/mQq55j65xJ",
+    "twitter"       : "https://twitter.com/0xLaoZi",
+    "github"        : "",
+    "website"       : "https://www.mai.finance",
+    "banner"        : "https://polygonscan.com/token/images/miMatic_32.png"
+    
+    "assets"        : [
+        {
+        "assetName"        : "miMATIC",
+        "tokenImage"       : "https://polygonscan.com/token/images/miMatic_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1"
+        },
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
