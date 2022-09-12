@@ -1,0 +1,37 @@
+{
+    "name"          : "Decentral Games",
+    "description"   : "",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.gg/cvbSNzY",
+    "twitter"       : "https://twitter.com/decentralgames",
+    "github"        : "https://github.com/decentralgames",
+    "website"       : "https://decentral.games/",
+    "banner"        : "https://assets.coingecko.com/coins/images/21173/small/Decentral_Games_Logo-1.png?1638441275"
+    
+    "assets"        : [
+        {
+        "assetName"        : "Decentral Games(DG)",
+        "tokenImage"       : "https://polygonscan.com/token/images/decentralgame_32.png?v=5"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xef938b6da8576a896f6E0321ef80996F4890f9c4"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
