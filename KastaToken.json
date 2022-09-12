@@ -1,0 +1,37 @@
+{
+    "name"          : "KastaToken",
+    "description"   : "Kasta is a crypto payment platform that enables instant and borderless peer-to-peer crypto transactions",
+    "chainId"       : "0x89",
+    "discord"       : "",
+    "twitter"       : "https://twitter.com/kasta_app",
+    "github"        : "https://github.com/kasta-io",
+    "website"       : "https://www.kasta.io/",
+    "banner"        : ""
+    
+    "assets"        : [
+        {
+        "assetName"        : "KastaToken",
+        "tokenImage"       : "https://polygonscan.com/token/images/kasta2_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x235737dBb56e8517391473f7c964DB31fA6ef280"
+        },
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
