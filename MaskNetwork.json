@@ -1,0 +1,37 @@
+{
+    "name"          : "Mask Network",
+    "description"   : "Mask Network is the core product of Dimension, which is positioned to become the bridge that connects internet users from Web 2.0 to Web 3.0",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.com/invite/4SVXvj7",
+    "twitter"       : "https://twitter.com/realmaskbook",
+    "github"        : "https://github.com/DimensionDev",
+    "website"       : "https://mask.io/",
+    "banner"        : "https://polygonscan.com/token/images/mask_32.png"
+    
+    "assets"        : [
+        {
+        "assetName"        : "Mask Network",
+        "tokenImage"       : "https://polygonscan.com/token/images/mask_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7"
+        },
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
