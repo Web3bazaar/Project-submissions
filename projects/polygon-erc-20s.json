@@ -82,34 +82,6 @@
         "contractAddress"  : "0xFbdd194376de19a88118e84E279b977f165d01b8"
         }, 
 {
-        "assetName"        : "Everipedia IQ",
-        "tokenImage"       : "https://polygonscan.com/token/images/everipedia_32.png?v=2"
-        "contractType"     : "ERC20",
-        "decimals"         : 18,
-        "contractAddress"  : "0xB9638272aD6998708de56BBC0A290a1dE534a578"
-        }, 
-{
-        "assetName"        : "Mask Network",
-        "tokenImage"       : "https://polygonscan.com/token/images/mask_32.png"
-        "contractType"     : "ERC20",
-        "decimals"         : 18,
-        "contractAddress"  : "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7"
-        },
- {
-        "assetName"        : "renBTC",
-        "tokenImage"       : "https://polygonscan.com/token/images/renbtcpoly_32.png"
-        "contractType"     : "ERC20",
-        "decimals"         : 8,
-        "contractAddress"  : "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501"
-        }, 
-{
-        "assetName"        : "Bancor",
-        "tokenImage"       : "https://polygonscan.com/token/images/bancor_32.png"
-        "contractType"     : "ERC20",
-        "decimals"         : 18,
-        "contractAddress"  : "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842"
-        }, 
-{
         "assetName"        : "Telcoin",
         "tokenImage"       : "https://polygonscan.com/token/images/telcoin_28.png"
         "contractType"     : "ERC20",
@@ -122,13 +94,6 @@
         "contractType"     : "ERC20",
         "decimals"         : 18,
         "contractAddress"  : "0x282d8efCe846A88B159800bd4130ad77443Fa1A1"
-        }, 
-{
-        "assetName"        : "ZRX Token",
-        "tokenImage"       : "https://polygonscan.com/token/images/zrx_28.png?v=3"
-        "contractType"     : "ERC20",
-        "decimals"         : 18,
-        "contractAddress"  : "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5"
         }, 
 {
         "assetName"        : "Render Token",
@@ -150,13 +115,6 @@
         "contractType"     : "ERC20",
         "decimals"         : 18,
         "contractAddress"  : "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf"
-        }, 
-{
-        "assetName"        : "Rocket Pool",
-        "tokenImage"       : "https://polygonscan.com/token/images/Rocketpool_32.png"
-        "contractType"     : "ERC20",
-        "decimals"         : 18,
-        "contractAddress"  : "0x7205705771547cF79201111B4bd8aaF29467b9eC"
         }, 
 {
         "assetName"        : "miMATIC",
