@@ -1,0 +1,41 @@
+{
+    "name"          : "League of Kingdoms",
+    "description"   : "League of Kingdoms (LOKA) is a blockchain-based Massively Multiplayer Online (MMO) strategy game",
+    "chainId"       : "0x89",
+    "discord"       : "https://discord.gg/66xQT9dm5E",
+    "twitter"       : "",
+    "github"        : "",
+    "website"       : "https://www.leagueofkingdoms.com/",
+    "banner"        : "https://i.seadn.io/gae/foTFHLuSYyDLskIWM3Jz9yfpH74drat9PXCSfFiiDTcQr6qNbb7RVIIkG8sIp8WVGBGU6Dsn90jG4QPkZyvlCg3ZbeuiISG5aoRVLg?w=500&auto=format"
+    
+    "assets"        : [
+        {
+        "assetName"        : "League of Kingdoms Arena(LOKA)",
+        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/17145.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0x61e90a50137e1f645c9ef4a0d3a4f01477738406"
+        }, 
+        {
+        "assetName"        : "LOK Gold 1M",
+        "backgroundBanner" : "",
+        "contractType"     : "ERC721",
+        "decimals"         : 1,
+        "contractAddress"  : "0x4d544035500D7aC1B42329c70eb58E77f8249f0F"
+        "apiMetadata"      : "",
+        "defaultImage"     : "https://i.seadn.io/gae/ZqRdD6p_ssnMqY_lH02qlXmJBlmn3EhKD-blSOC0OmgcvAn7sBALuwuVhIUrEZdSau1gQhso7TijgY3AqFZsDhC5Uw?w=500&auto=format"
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "league of kingdoms items (polygon)",
+                "link" : "https://opensea.io/collection/league-of-kingdoms-item-v2"
+        },
+        {       
+                "name" : "league of kingdoms skins (polygon)",
+                "link" : "https://opensea.io/collection/league-of-kingdoms-skin-polygon"
+        },
+            ],
+
+
+}
