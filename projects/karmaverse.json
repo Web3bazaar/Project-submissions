@@ -1,55 +1,53 @@
 {
-    "name"          : "Karmaverse Zombie Serum",
-    "description"   : "Karmaverse Zombie is the first game installment from the AAA GameFi Karmaverse (karmaverse. io)",
-    "chainId"       : "0x89",
-    "discord"       : "https://discord.gg/d6FVbRr3r8",
-    "twitter"       : "https://twitter.com/Karmaverse_io",
-    "github"        : "",
-    "website"       : "https://karmaverse.io/zh",
-    "banner"        : "https://chainplay.gg/_next/image/?url=https%3A%2F%2Ftk-storage.s3.ap-southeast-1.amazonaws.com%2Fhost%2Fgame%2FKarmaverseZombieSerum_20220711091904.png&w=256&q=75"
-    
-    "assets"        : [
-        {
-        "assetName"        : "SERUM",
-        "tokenImage"       : "https://s2.coinmarketcap.com/static/img/coins/64x64/20692.png"
-        "contractType"     : "ERC20",
-        "decimals"         : 18,
-        "contractAddress"  : "0x623a1350f6B749575F92Ea54D0F745f9F07D3665"
-        }, 
-        "assetName"        : "KNOT",
-        "tokenImage"       : "https://chainplay.gg/_next/image/?url=https%3A%2F%2Ftk-storage.s3.ap-southeast-1.amazonaws.com%2Fhost%2Fgame%2Fkarmaverse_20220629093058.png&w=128&q=75"
-        "contractType"     : "ERC20",
-        "decimals"         : 18,
-        "contractAddress"  : "0xb763f1177e9b2fb66fbe0d50372e3e2575c043e5"
-        },
-        {
-        "assetName"        : "Epic Box",
-        "backgroundBanner" : "",
-        "contractType"     : "ERC-721",
-        "decimals"         : 1,
-        "contractAddress"  : "0x4FD32af0C0264A27bFcA6Fe7dD1b9c8D73dd699e"
-        "apiMetadata"      : "https://zombie-metadata.karmaverse.io/nft_web/api/kz/box/metadata/25138",
-        "defaultImage"     : ""
-        },
-        "assetName"        : "Karmaverse Zombie #445",
-        "backgroundBanner" : "",
-        "contractType"     : "ERC-1155",
-        "decimals"         : 1,
-        "contractAddress"  : "0x2953399124F0cBB46d2CbACD8A89cF0599974963"
-        "apiMetadata"      : "",
-        "defaultImage"     : "https://i.seadn.io/gae/lhpeomPmTo7W-yHCQ6Dz4zXDSXCPkmqYE8yjKVUgbCH0XbAFy1VxjT2yWM3NagOujEiBWY4jDFDsgT2IYSuVs3XRMTuQ_71xv4gsNg?auto=format&w=1000"
-        },
-    ],
-            "opensea_collections" : [
-        {       
-                "name" : "Karmaverse Zombie Box",
-                "link" : "https://opensea.io/collection/karmaverse-zombie-box"
-        },
-        {       
-                "name" : "KARMAVERSE ZOMBIE",
-                "link" : "https://opensea.io/collection/karmaverse-zombie"
-        },
-            ],
+	"name": "Karmaverse Zombie Serum",
+	"description": "Karmaverse Zombie is the first game installment from the AAA GameFi Karmaverse (karmaverse. io)",
+	"chainId": "0x89",
+	"discord": "https://discord.gg/d6FVbRr3r8",
+	"twitter": "https://twitter.com/Karmaverse_io",
+	"github": "",
+	"website": "https://karmaverse.io/zh",
+	"banner": "https://chainplay.gg/_next/image/?url=https%3A%2F%2Ftk-storage.s3.ap-southeast-1.amazonaws.com%2Fhost%2Fgame%2FKarmaverseZombieSerum_20220711091904.png&w=256&q=75",
 
-
+	"assets": [{
+			"assetName": "SERUM",
+			"tokenImage": "https://s2.coinmarketcap.com/static/img/coins/64x64/20692.png",
+			"contractType": "ERC20",
+			"decimals": 18,
+			"contractAddress": "0x623a1350f6B749575F92Ea54D0F745f9F07D3665"
+		},
+		{
+			"assetName": "KNOT",
+			"tokenImage": "https://chainplay.gg/_next/image/?url=https%3A%2F%2Ftk-storage.s3.ap-southeast-1.amazonaws.com%2Fhost%2Fgame%2Fkarmaverse_20220629093058.png&w=128&q=75",
+			"contractType": "ERC20",
+			"decimals": 18,
+			"contractAddress": "0xb763f1177e9b2fb66fbe0d50372e3e2575c043e5"
+		},
+		{
+			"assetName": "Epic Box",
+			"backgroundBanner": "",
+			"contractType": "ERC-721",
+			"decimals": 1,
+			"contractAddress": "0x4FD32af0C0264A27bFcA6Fe7dD1b9c8D73dd699e",
+			"apiMetadata": "https://zombie-metadata.karmaverse.io/nft_web/api/kz/box/metadata/25138",
+			"defaultImage": ""
+		},
+		{
+			"assetName": "Karmaverse Zombie #445",
+			"backgroundBanner": "",
+			"contractType": "ERC-1155",
+			"decimals": 1,
+			"contractAddress": "0x2953399124F0cBB46d2CbACD8A89cF0599974963",
+			"apiMetadata": "",
+			"defaultImage": "https://i.seadn.io/gae/lhpeomPmTo7W-yHCQ6Dz4zXDSXCPkmqYE8yjKVUgbCH0XbAFy1VxjT2yWM3NagOujEiBWY4jDFDsgT2IYSuVs3XRMTuQ_71xv4gsNg?auto=format&w=1000"
+		}
+	],
+	"opensea_collections": [{
+			"name": "Karmaverse Zombie Box",
+			"link": "https://opensea.io/collection/karmaverse-zombie-box"
+		},
+		{
+			"name": "KARMAVERSE ZOMBIE",
+			"link": "https://opensea.io/collection/karmaverse-zombie"
+		}
+	]
 }
