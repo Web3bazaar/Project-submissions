@@ -30,15 +30,6 @@
 			"contractAddress": "0x4FD32af0C0264A27bFcA6Fe7dD1b9c8D73dd699e",
 			"apiMetadata": "https://zombie-metadata.karmaverse.io/nft_web/api/kz/box/metadata/25138",
 			"defaultImage": ""
-		},
-		{
-			"assetName": "Karmaverse Zombie #445",
-			"backgroundBanner": "",
-			"contractType": "ERC-1155",
-			"decimals": 1,
-			"contractAddress": "0x2953399124F0cBB46d2CbACD8A89cF0599974963",
-			"apiMetadata": "",
-			"defaultImage": "https://i.seadn.io/gae/lhpeomPmTo7W-yHCQ6Dz4zXDSXCPkmqYE8yjKVUgbCH0XbAFy1VxjT2yWM3NagOujEiBWY4jDFDsgT2IYSuVs3XRMTuQ_71xv4gsNg?auto=format&w=1000"
 		}
 	],
 	"opensea_collections": [{
