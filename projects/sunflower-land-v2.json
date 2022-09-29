@@ -21,7 +21,7 @@
     "assets" : 
     [
         {
-            "assetName"       : "Sunflower Land (SFL)",
+            "assetName"       : "Sunflower Land token (SFL)",
             "tokenImage"        : "https://lh3.googleusercontent.com/rpnk-Yq7k8ueMvjkVAkHr5cRAhIuAoVzJ_C9wYFDvbwOMcQHM3EGSJU1Ex5M9wzO6tU_PIp_aki37tCfQgrOqS6MYkSibIpI7kRVIw=s0",
             "contractType"      : "ERC20",
             "decimals"          : 18,
