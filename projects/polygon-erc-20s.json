@@ -19,6 +19,13 @@
           "contractAddress"      : "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
       },
       {
+          "assetName" : "WBNB",
+          "tokenImage" : "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+          "contractType" : "ERC20",
+          "decimals" : 18,
+          "contractAddress" : "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F"
+      },
+      {
           "assetName"       : "Aave (AAVE)",
           "tokenImage"        : "https://thegivingblock.com/wp-content/uploads/2021/07/AAVE-Logo.png",
           "contractType"      : "ERC20",
