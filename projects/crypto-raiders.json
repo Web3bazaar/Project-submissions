@@ -36,7 +36,7 @@
             "contractAddress"      : "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3"
         },
          {
-            "assetName"       : "Crypto Raiders",
+            "assetName"       : "Crypto Raiders Characters",
             "backgroundBanner"  : "https://pbs.twimg.com/card_img/1574528072254214146/v-M9qbxV?format=png&name=small",
             "contractType"      : "ERC721",
             "decimals"          :  1,
