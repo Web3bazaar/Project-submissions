@@ -1,66 +1,63 @@
 {
-    "name"          : "crypto-raiders",
-    "description"   : "",
-    "chainId"       : "0x89",
-    "discord"       : "",
-    "twitter"       : "",
-    "github"        : "",
-    "docs"          : "",
-    "website"       : "https://cryptoraiders.xyz/",
-    "banner"        : "https://pbs.twimg.com/card_img/1574528072254214146/v-M9qbxV?format=png&name=small",
-    "opensea_collections" : [
-        {
-			    "name": "Crypto Raiders Achievements",
-			    "link": "https://opensea.io/collection/cryptoraidersachievements"
-		    },
-        {
-			    "name": "Crypto Raiders Mounts",
-			    "link": "https://opensea.io/collection/crypto-raiders-mounts"
-		    },
-        {
-			    "name": "Crypto Raiders MOBS",
-			    "link": "https://opensea.io/collection/mobskeys"
-		    },
-        {
-			    "name": "Crypto Raiders Characters",
-			    "link": "https://opensea.io/collection/crypto-raiders-characters"
-		    }      
-    ],
-    "assets" : 
-    [
-        {
-            "assetName"       : "Raider token (RAIDER)",
-            "tokenImage"        : "https://s2.coinmarketcap.com/static/img/coins/64x64/16863.png",
-            "contractType"      : "ERC20",
-            "decimals"          : 18,
-            "contractAddress"      : "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3"
-        },
-         {
-            "assetName"       : "Crypto Raiders Characters",
-            "backgroundBanner"  : "https://pbs.twimg.com/card_img/1574528072254214146/v-M9qbxV?format=png&name=small",
-            "contractType"      : "ERC721",
-            "decimals"          :  1,
-            "contractAddress"   : "0xfD12ec7ea4B381a79C78FE8b2248b4c559011ffb",
-            "apiMetadata"       : "https://api.cryptoraiders.xyz/raider/{id}",
-            "defaultImage"      : ""
-        },
-         {
-            "assetName"         : "Crypto Raiders Mobs Keys",
-            "backgroundBanner"  : "https://pbs.twimg.com/card_img/1574528072254214146/v-M9qbxV?format=png&name=small",
-            "contractType"      : "ERC721",
-            "decimals"          :  1,
-            "contractAddress"   : "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
-            "apiMetadata"       : "https://api.cryptoraiders.xyz/mobs-keys/{id}",
-            "defaultImage"      : "",
-        },
-         {
-            "assetName"         : "Crypto Raiders Mount",
-            "backgroundBanner"  : "https://pbs.twimg.com/card_img/1574528072254214146/v-M9qbxV?format=png&name=small",
-            "contractType"      : "ERC721",
-            "decimals"          :  1,
-            "contractAddress"   : "0x2953399124F0cBB46d2CbACD8A89cF0599974963",
-            "apiMetadata"       : "https://api.cryptoraiders.xyz/mount/{id}",
-            "defaultImage"      : ""
-        }        
-    ]
+	"name": "crypto-raiders",
+	"description": "",
+	"chainId": "0x89",
+	"discord": "",
+	"twitter": "",
+	"github": "",
+	"docs": "",
+	"website": "https://cryptoraiders.xyz/",
+	"banner": "https://pbs.twimg.com/card_img/1574528072254214146/v-M9qbxV?format=png&name=small",
+	"opensea_collections": [{
+			"name": "Crypto Raiders Achievements",
+			"link": "https://opensea.io/collection/cryptoraidersachievements"
+		},
+		{
+			"name": "Crypto Raiders Mounts",
+			"link": "https://opensea.io/collection/crypto-raiders-mounts"
+		},
+		{
+			"name": "Crypto Raiders MOBS",
+			"link": "https://opensea.io/collection/mobskeys"
+		},
+		{
+			"name": "Crypto Raiders Characters",
+			"link": "https://opensea.io/collection/crypto-raiders-characters"
+		}
+	],
+	"assets": [{
+			"assetName": "Raider token (RAIDER)",
+			"tokenImage": "https://s2.coinmarketcap.com/static/img/coins/64x64/16863.png",
+			"contractType": "ERC20",
+			"decimals": 18,
+			"contractAddress": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3"
+		},
+		{
+			"assetName": "Crypto Raiders Characters",
+			"backgroundBanner": "https://pbs.twimg.com/card_img/1574528072254214146/v-M9qbxV?format=png&name=small",
+			"contractType": "ERC721",
+			"decimals": 1,
+			"contractAddress": "0xfD12ec7ea4B381a79C78FE8b2248b4c559011ffb",
+			"apiMetadata": "https://api.cryptoraiders.xyz/raider/{id}",
+			"defaultImage": ""
+		},
+		{
+			"assetName": "Crypto Raiders Mobs Keys",
+			"backgroundBanner": "https://pbs.twimg.com/card_img/1574528072254214146/v-M9qbxV?format=png&name=small",
+			"contractType": "ERC721",
+			"decimals": 1,
+			"contractAddress": "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
+			"apiMetadata": "https://api.cryptoraiders.xyz/mobs-keys/{id}",
+			"defaultImage": ""
+		},
+		{
+			"assetName": "Crypto Raiders Mount",
+			"backgroundBanner": "https://pbs.twimg.com/card_img/1574528072254214146/v-M9qbxV?format=png&name=small",
+			"contractType": "ERC721",
+			"decimals": 1,
+			"contractAddress": "0x2953399124F0cBB46d2CbACD8A89cF0599974963",
+			"apiMetadata": "https://api.cryptoraiders.xyz/mount/{id}",
+			"defaultImage": ""
+		}
+	]
 }
