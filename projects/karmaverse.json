@@ -33,8 +33,7 @@
 		}
 	],
 	"opensea_collections": [{
-			"name": "Karmaverse Zombie Box",
-			"link": "https://opensea.io/collection/karmaverse-zombie-box"
-		},
-	]
+		"name": "Karmaverse Zombie Box",
+		"link": "https://opensea.io/collection/karmaverse-zombie-box"
+	}]
 }
