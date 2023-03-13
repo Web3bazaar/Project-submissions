@@ -1,0 +1,60 @@
+{
+    "name":"Pirate Nation",
+    "description":"Pirate Nation is a light hearted game filled with high seas adventure, treasure, and fun, unique characters.",
+    "chainId":"0x89",
+    "discord":"https://discord.com/invite/piratenation",
+    "twitter":"https://twitter.com/piratenationnft",
+    "github":"",
+    "website":"https://piratenation.game",
+    "banner":"https://i.imgur.com/nonxH27.png",
+    "assets":[
+        {
+            "assetName":"Pirate Gold (PGLD)",
+            "tokenImage":"https://piratenation.game/game_assets/currency/gold.png",
+            "contractType":"ERC20",
+            "decimals":18,
+            "contractAddress":"0x252181197f84b8A084F167c33040E333628F5145"
+        },
+        {
+            "assetName":"Pirate Nation - Founder's Pirates (Polygon)",
+            "backgroundBanner":"",
+            "contractType":"ERC721",
+            "decimals":1,
+            "contractAddress":"0x687e4d88c45eba1aefb0ace6d127d038e7235943",
+            "apiMetadata":"https://proofofplay.mypinata.cloud/ipfs/Qmeg5A5GinamwMUurC6MaoEns2FdLkyCvMMG43t2CHgkif/{id}",
+            "defaultImage":""
+        },
+        {
+            "assetName":"Pirate Nation - Ships",
+            "backgroundBanner":"",
+            "contractType":"ERC721",
+            "decimals":1,
+            "contractAddress":"0xd29Cb4237dDC383e4b5d5D9D106dC16f59256E91",
+            "apiMetadata":"",
+            "defaultImage":"https://i.seadn.io/gcs/files/d93b375c9f20e35066b67ab61a487a41.gif?auto=format&w=256"
+        },
+        {
+            "assetName":"Pirate Nation - Items",
+            "backgroundBanner":"",
+            "contractType":"ERC1155",
+            "decimals":1,
+            "contractAddress":"0x57a9b65ceac6c5ee0cec8cd4571a7c3805b558d8",
+            "apiMetadata":"",
+            "defaultImage":"https://i.seadn.io/gcs/files/06a07158febfe5dded5c2e13e4cac214.gif?auto=format&w=256"
+        }
+    ],
+    "opensea_collections":[
+        {
+            "name":"Pirate Nation - Founder's Pirates (Polygon)",
+            "link":"https://opensea.io/collection/piratenationpolygon"
+        },
+        {
+            "name":"Pirate Nation - Ships",
+            "link":"https://opensea.io/collection/piratenationships"
+        },
+        {
+            "name":"Pirate Nation - Items",
+            "link":"https://opensea.io/collection/piratenationitems"
+        }
+    ]
+}
