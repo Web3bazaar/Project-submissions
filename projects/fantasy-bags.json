@@ -20,7 +20,7 @@
             "contractType"      : "ERC721",
             "decimals"          : "1",
             "contractAddress"   : "0xDFD6f44EE78afD7a6eEb0af796E943c7D0b6F1ef",
-            "apiMetadata"       : "image":"https://bafybeicndilqfmajtw65xhdsv7edq5vd5d7eosqysgsn4nryn6lmfc2n54.ipfs.dweb.link/{id}.png",
+            "apiMetadata"       : "https://bafybeicndilqfmajtw65xhdsv7edq5vd5d7eosqysgsn4nryn6lmfc2n54.ipfs.dweb.link/{id}.png",
             "defaultImage"      : ""
         }
     ]
