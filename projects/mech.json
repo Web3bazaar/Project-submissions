@@ -1,0 +1,34 @@
+{
+    "name"          : "Mech.com",
+    "description"   : "Mech NFTs",
+    "chainId"       : "0x89",
+    "discord"       : "",
+    "twitter"       : "hhttps://twitter.com/MechNFT",
+    "github"        : "",
+    "website"       : "https://mech.com/homepage",
+    "banner"        : "https://mech.com/static/media/latestNewsLeft3.8659f25232d761257efe.png",
+    "assets"        : [
+        {
+            "assetName" : "BAZCOIN",
+            "tokenImage" : "https://cdn-icons-png.flaticon.com/512/4843/4843086.png",
+            "contractType" : "ERC20",
+            "decimals" : 18,
+            "contractAddress" : "0x89A84dc58ABA7909818C471B2EbFBc94e6C96c41"
+        },
+        {
+            "assetName"       : "Mech NFTs",
+            "backgroundBanner"  : "https://mech.com/static/media/latestNewsLeft3.8659f25232d761257efe.png",
+            "contractType"      : "ERC721",
+            "decimals"          : 1,
+            "contractAddress"   : "0x2953399124F0cBB46d2CbACD8A89cF0599974963",
+            "apiMetadata"       : "",
+            "defaultImage"      : "https://i.seadn.io/gae/nOWIphHFGOJN0XQ37AcSKVjAfAh2euy-k647ewFk68atZEQCfAa1zdU1jTHkBo2z8YIr9Ng67qbofITg3fyV3gtNfFQ0kb3Vm46A?w=500&auto=format"
+        }
+    ],
+            "opensea_collections" : [
+        {
+            "name" : "Mech NFTs",
+            "link" : "https://opensea.io/collection/mech-nfts"
+        }
+    ]
+}
